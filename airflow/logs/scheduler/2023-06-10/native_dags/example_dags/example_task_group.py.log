@@ -1,0 +1,252 @@
+[2023-06-11T00:12:09.504+0200] {processor.py:156} INFO - Started process (PID=4614) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:12:09.506+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:12:09.516+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:12:09.508+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:12:09.653+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:12:09.741+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:12:09.741+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:12:09.801+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:12:09.801+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:12:09.800561+00:00, run_after=2023-06-10T22:12:09.800561+00:00
+[2023-06-11T00:12:10.232+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.746 seconds
+[2023-06-11T00:13:13.229+0200] {processor.py:156} INFO - Started process (PID=4651) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:13:13.233+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:13:13.235+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:13:13.234+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:13:13.284+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:13:13.383+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:13:13.383+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:13:13.486+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:13:13.485+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:13:13.480345+00:00, run_after=2023-06-10T22:13:13.480345+00:00
+[2023-06-11T00:13:13.572+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.351 seconds
+[2023-06-11T00:14:30.807+0200] {processor.py:156} INFO - Started process (PID=4687) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:14:30.820+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:14:30.822+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:14:30.821+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:14:30.900+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:14:31.001+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:14:31.000+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:14:31.114+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:14:31.114+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:14:31.104510+00:00, run_after=2023-06-10T22:14:31.104510+00:00
+[2023-06-11T00:14:31.345+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.551 seconds
+[2023-06-11T00:16:09.457+0200] {processor.py:156} INFO - Started process (PID=4734) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:16:09.460+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:16:09.462+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:16:09.461+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:16:09.512+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:16:09.626+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:16:09.623+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:16:09.727+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:16:09.727+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:16:09.726992+00:00, run_after=2023-06-10T22:16:09.726992+00:00
+[2023-06-11T00:16:09.830+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.380 seconds
+[2023-06-11T00:17:04.057+0200] {processor.py:156} INFO - Started process (PID=4777) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:17:04.066+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:17:04.068+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:04.068+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:17:04.110+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:17:04.170+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:04.170+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:17:04.217+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:04.217+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:17:04.216727+00:00, run_after=2023-06-10T22:17:04.216727+00:00
+[2023-06-11T00:17:04.607+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.556 seconds
+[2023-06-11T00:17:54.271+0200] {processor.py:156} INFO - Started process (PID=4812) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:17:54.278+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:17:54.280+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:54.280+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:17:54.320+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:17:54.390+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:54.389+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:17:54.435+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:54.434+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:17:54.434228+00:00, run_after=2023-06-10T22:17:54.434228+00:00
+[2023-06-11T00:17:54.506+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.245 seconds
+[2023-06-11T00:18:40.729+0200] {processor.py:156} INFO - Started process (PID=4847) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:18:40.733+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:18:40.735+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:18:40.735+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:18:40.779+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:18:40.831+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:18:40.831+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:18:40.875+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:18:40.874+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:18:40.874443+00:00, run_after=2023-06-10T22:18:40.874443+00:00
+[2023-06-11T00:18:40.937+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.214 seconds
+[2023-06-11T00:19:29.756+0200] {processor.py:156} INFO - Started process (PID=4880) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:19:29.854+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:19:29.856+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:19:29.855+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:19:30.148+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:19:30.725+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:19:30.725+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:19:30.911+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:19:30.910+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:19:30.910335+00:00, run_after=2023-06-10T22:19:30.910335+00:00
+[2023-06-11T00:19:31.687+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 1.949 seconds
+[2023-06-11T00:20:57.564+0200] {processor.py:156} INFO - Started process (PID=4926) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:20:57.581+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:20:57.583+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:20:57.582+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:20:57.656+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:20:57.824+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:20:57.814+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:20:57.962+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:20:57.961+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:20:57.961365+00:00, run_after=2023-06-10T22:20:57.961365+00:00
+[2023-06-11T00:20:58.106+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.549 seconds
+[2023-06-11T00:22:09.538+0200] {processor.py:156} INFO - Started process (PID=4963) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:22:09.542+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:22:09.544+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:22:09.543+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:22:09.649+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:22:09.764+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:22:09.763+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:22:09.849+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:22:09.848+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:22:09.847377+00:00, run_after=2023-06-10T22:22:09.847377+00:00
+[2023-06-11T00:22:09.945+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.415 seconds
+[2023-06-11T00:23:05.112+0200] {processor.py:156} INFO - Started process (PID=4997) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:23:05.129+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:23:05.132+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:23:05.132+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:23:05.194+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:23:05.263+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:23:05.263+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:23:05.320+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:23:05.320+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:23:05.318486+00:00, run_after=2023-06-10T22:23:05.318486+00:00
+[2023-06-11T00:23:05.385+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.303 seconds
+[2023-06-11T00:24:03.874+0200] {processor.py:156} INFO - Started process (PID=5031) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:24:03.890+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:24:03.892+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:24:03.892+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:24:04.066+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:24:04.330+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:24:04.319+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:24:04.507+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:24:04.507+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:24:04.506602+00:00, run_after=2023-06-10T22:24:04.506602+00:00
+[2023-06-11T00:24:04.691+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.827 seconds
+[2023-06-11T00:25:56.944+0200] {processor.py:156} INFO - Started process (PID=5068) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:25:56.949+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:25:56.951+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:25:56.951+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:25:57.011+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:25:57.109+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:25:57.108+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:25:57.183+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:25:57.182+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:25:57.181780+00:00, run_after=2023-06-10T22:25:57.181780+00:00
+[2023-06-11T00:25:57.622+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.689 seconds
+[2023-06-11T00:26:59.614+0200] {processor.py:156} INFO - Started process (PID=5105) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:26:59.618+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:26:59.619+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:26:59.619+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:26:59.692+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:26:59.760+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:26:59.760+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:27:00.113+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:27:00.113+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:27:00.112821+00:00, run_after=2023-06-10T22:27:00.112821+00:00
+[2023-06-11T00:27:00.174+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.567 seconds
+[2023-06-11T00:27:59.747+0200] {processor.py:156} INFO - Started process (PID=5142) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:27:59.754+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:27:59.755+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:27:59.755+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:27:59.826+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:27:59.936+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:27:59.936+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:28:00.594+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:00.594+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:28:00.593754+00:00, run_after=2023-06-10T22:28:00.593754+00:00
+[2023-06-11T00:28:00.707+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.967 seconds
+[2023-06-11T00:28:54.645+0200] {processor.py:156} INFO - Started process (PID=5176) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:28:54.653+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:28:54.654+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:54.654+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:28:54.700+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:28:54.773+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:54.773+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:28:55.119+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:55.119+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:28:55.117805+00:00, run_after=2023-06-10T22:28:55.117805+00:00
+[2023-06-11T00:28:55.179+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.540 seconds
+[2023-06-11T00:29:55.102+0200] {processor.py:156} INFO - Started process (PID=5210) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:29:55.109+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:29:55.110+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:29:55.110+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:29:55.167+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:29:55.275+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:29:55.274+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:29:55.827+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:29:55.826+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:29:55.825925+00:00, run_after=2023-06-10T22:29:55.825925+00:00
+[2023-06-11T00:29:55.972+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.881 seconds
+[2023-06-11T00:31:04.133+0200] {processor.py:156} INFO - Started process (PID=5247) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:31:04.140+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:31:04.142+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:31:04.142+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:31:04.196+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:31:04.651+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:31:04.648+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:31:04.715+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:31:04.714+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:31:04.713942+00:00, run_after=2023-06-10T22:31:04.713942+00:00
+[2023-06-11T00:31:04.802+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.682 seconds
+[2023-06-11T00:32:00.620+0200] {processor.py:156} INFO - Started process (PID=5282) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:32:00.623+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:32:00.625+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:00.625+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:32:00.682+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:32:01.064+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:01.063+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:32:01.139+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:01.138+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:32:01.138423+00:00, run_after=2023-06-10T22:32:01.138423+00:00
+[2023-06-11T00:32:01.203+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.596 seconds
+[2023-06-11T00:32:55.703+0200] {processor.py:156} INFO - Started process (PID=5318) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:32:55.707+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:32:55.711+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:55.711+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:32:56.123+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:32:56.181+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:56.181+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:32:56.224+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:56.224+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:32:56.223917+00:00, run_after=2023-06-10T22:32:56.223917+00:00
+[2023-06-11T00:32:56.287+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.591 seconds
+[2023-06-11T00:33:49.723+0200] {processor.py:156} INFO - Started process (PID=5353) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:33:49.730+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:33:49.731+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:33:49.731+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:33:50.155+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:33:50.214+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:33:50.213+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:33:50.307+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:33:50.306+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:33:50.305963+00:00, run_after=2023-06-10T22:33:50.305963+00:00
+[2023-06-11T00:33:50.626+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.912 seconds
+[2023-06-11T00:34:51.616+0200] {processor.py:156} INFO - Started process (PID=5391) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:34:51.632+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:34:51.634+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:34:51.634+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:34:51.821+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:34:52.132+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:34:52.132+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:34:52.322+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:34:52.321+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:34:52.321194+00:00, run_after=2023-06-10T22:34:52.321194+00:00
+[2023-06-11T00:34:52.721+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 1.140 seconds
+[2023-06-11T00:35:49.042+0200] {processor.py:156} INFO - Started process (PID=5427) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:35:49.047+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:35:49.049+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:35:49.048+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:35:49.085+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:35:49.143+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:35:49.142+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:35:49.190+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:35:49.190+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:35:49.189553+00:00, run_after=2023-06-10T22:35:49.189553+00:00
+[2023-06-11T00:35:49.258+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.223 seconds
+[2023-06-11T00:36:32.145+0200] {processor.py:156} INFO - Started process (PID=5460) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:36:32.152+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:36:32.153+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:32.153+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:36:32.190+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:36:32.244+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:32.243+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:36:32.291+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:32.291+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:36:32.291103+00:00, run_after=2023-06-10T22:36:32.291103+00:00
+[2023-06-11T00:36:32.340+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.213 seconds
+[2023-06-11T00:37:17.109+0200] {processor.py:156} INFO - Started process (PID=5494) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:37:17.116+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:37:17.118+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:37:17.118+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:37:17.171+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:37:17.243+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:37:17.242+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:37:17.297+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:37:17.297+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:37:17.297024+00:00, run_after=2023-06-10T22:37:17.297024+00:00
+[2023-06-11T00:37:17.349+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.247 seconds
+[2023-06-11T00:38:10.677+0200] {processor.py:156} INFO - Started process (PID=5528) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:38:10.680+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:38:10.682+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:10.682+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:38:10.728+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:38:10.788+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:10.788+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:38:10.835+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:10.834+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:38:10.834284+00:00, run_after=2023-06-10T22:38:10.834284+00:00
+[2023-06-11T00:38:10.890+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.220 seconds
+[2023-06-11T00:38:56.115+0200] {processor.py:156} INFO - Started process (PID=5564) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:38:56.121+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:38:56.124+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:56.123+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:38:56.179+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:38:56.259+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:56.258+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:38:56.318+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:56.318+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:38:56.317612+00:00, run_after=2023-06-10T22:38:56.317612+00:00
+[2023-06-11T00:38:56.381+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.275 seconds
+[2023-06-11T00:39:35.954+0200] {processor.py:156} INFO - Started process (PID=5597) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:39:35.968+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:39:35.969+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:39:35.969+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:39:36.110+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:39:36.320+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:39:36.320+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:39:36.481+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:39:36.480+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:39:36.480394+00:00, run_after=2023-06-10T22:39:36.480394+00:00
+[2023-06-11T00:39:36.846+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.909 seconds
+[2023-06-11T00:40:21.427+0200] {processor.py:156} INFO - Started process (PID=5631) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:40:21.436+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:40:21.438+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:21.438+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:40:21.517+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:40:21.626+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:21.625+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:40:21.737+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:21.736+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:40:21.736328+00:00, run_after=2023-06-10T22:40:21.736328+00:00
+[2023-06-11T00:40:21.826+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.413 seconds
+[2023-06-11T00:41:04.244+0200] {processor.py:156} INFO - Started process (PID=5665) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:41:04.250+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:41:04.252+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:04.251+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:41:04.287+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:41:04.340+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:04.340+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:41:04.384+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:04.384+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:41:04.383892+00:00, run_after=2023-06-10T22:41:04.383892+00:00
+[2023-06-11T00:41:04.428+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.191 seconds
+[2023-06-11T00:41:48.827+0200] {processor.py:156} INFO - Started process (PID=5701) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:41:48.833+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:41:48.835+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:48.834+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:41:48.891+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:41:48.988+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:48.977+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:41:49.081+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:49.080+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:41:49.080074+00:00, run_after=2023-06-10T22:41:49.080074+00:00
+[2023-06-11T00:41:49.130+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.310 seconds
+[2023-06-11T00:42:35.804+0200] {processor.py:156} INFO - Started process (PID=5737) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:42:35.813+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:42:35.815+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:42:35.815+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:42:35.857+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:42:35.929+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:42:35.929+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:42:35.980+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:42:35.980+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:42:35.979426+00:00, run_after=2023-06-10T22:42:35.979426+00:00
+[2023-06-11T00:42:36.038+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.241 seconds
+[2023-06-11T00:43:23.384+0200] {processor.py:156} INFO - Started process (PID=5771) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:43:23.395+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:43:23.399+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:23.398+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:43:23.484+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:43:23.545+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:23.545+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:43:23.594+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:23.594+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:43:23.593655+00:00, run_after=2023-06-10T22:43:23.593655+00:00
+[2023-06-11T00:43:23.648+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.287 seconds
+[2023-06-11T00:44:06.101+0200] {processor.py:156} INFO - Started process (PID=5805) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:44:06.104+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:44:06.105+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:06.105+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:44:06.146+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:44:06.216+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:06.215+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:44:06.265+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:06.265+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:44:06.264699+00:00, run_after=2023-06-10T22:44:06.264699+00:00
+[2023-06-11T00:44:06.330+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.235 seconds
+[2023-06-11T00:44:56.721+0200] {processor.py:156} INFO - Started process (PID=5839) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:44:56.726+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:44:56.727+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:56.727+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:44:56.771+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:44:56.832+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:56.832+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:44:56.888+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:56.887+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:44:56.887389+00:00, run_after=2023-06-10T22:44:56.887389+00:00
+[2023-06-11T00:44:56.940+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.228 seconds
+[2023-06-11T00:45:46.594+0200] {processor.py:156} INFO - Started process (PID=5874) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:45:46.598+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-11T00:45:46.600+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:45:46.599+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:45:46.646+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-11T00:45:46.726+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:45:46.726+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:45:46.789+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:45:46.789+0200] {dag.py:3324} INFO - Setting next_dagrun for example_task_group to 2023-06-09T22:45:46.788735+00:00, run_after=2023-06-10T22:45:46.788735+00:00
+[2023-06-11T00:45:46.998+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.411 seconds

@@ -1,0 +1,252 @@
+[2023-06-11T00:10:20.329+0200] {processor.py:156} INFO - Started process (PID=4379) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:10:20.362+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:10:20.364+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:10:20.363+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:10:20.663+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:10:20.891+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:10:20.890+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:10:21.076+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:10:21.075+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:10:21.072676+00:00, run_after=2023-06-10T22:10:21.072676+00:00
+[2023-06-11T00:10:21.334+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 1.093 seconds
+[2023-06-11T00:12:50.489+0200] {processor.py:156} INFO - Started process (PID=4636) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:12:50.496+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:12:50.498+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:12:50.498+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:12:50.606+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:12:50.790+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:12:50.789+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:12:51.020+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:12:51.019+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:12:51.015252+00:00, run_after=2023-06-10T22:12:51.015252+00:00
+[2023-06-11T00:12:51.221+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.822 seconds
+[2023-06-11T00:14:07.627+0200] {processor.py:156} INFO - Started process (PID=4672) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:14:07.630+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:14:07.631+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:14:07.631+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:14:07.680+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:14:07.748+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:14:07.747+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:14:07.803+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:14:07.803+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:14:07.802710+00:00, run_after=2023-06-10T22:14:07.802710+00:00
+[2023-06-11T00:14:07.880+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.261 seconds
+[2023-06-11T00:15:17.513+0200] {processor.py:156} INFO - Started process (PID=4712) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:15:17.532+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:15:17.534+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:15:17.534+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:15:17.708+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:15:18.030+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:15:18.019+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:15:18.327+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:15:18.326+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:15:18.317801+00:00, run_after=2023-06-10T22:15:18.317801+00:00
+[2023-06-11T00:15:19.899+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 2.402 seconds
+[2023-06-11T00:16:41.827+0200] {processor.py:156} INFO - Started process (PID=4759) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:16:41.831+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:16:41.832+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:16:41.832+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:16:41.868+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:16:41.931+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:16:41.930+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:16:41.984+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:16:41.984+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:16:41.983438+00:00, run_after=2023-06-10T22:16:41.983438+00:00
+[2023-06-11T00:16:42.052+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.232 seconds
+[2023-06-11T00:17:31.241+0200] {processor.py:156} INFO - Started process (PID=4796) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:17:31.247+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:17:31.248+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:31.248+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:17:31.282+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:17:31.337+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:31.336+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:17:31.379+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:17:31.379+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:17:31.378384+00:00, run_after=2023-06-10T22:17:31.378384+00:00
+[2023-06-11T00:17:31.488+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.266 seconds
+[2023-06-11T00:18:20.426+0200] {processor.py:156} INFO - Started process (PID=4832) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:18:20.432+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:18:20.441+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:18:20.440+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:18:20.532+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:18:20.635+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:18:20.634+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:18:20.795+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:18:20.783+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:18:20.782912+00:00, run_after=2023-06-10T22:18:20.782912+00:00
+[2023-06-11T00:18:20.891+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.481 seconds
+[2023-06-11T00:19:01.191+0200] {processor.py:156} INFO - Started process (PID=4865) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:19:01.195+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:19:01.197+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:19:01.197+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:19:01.254+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:19:01.339+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:19:01.339+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:19:01.394+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:19:01.394+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:19:01.393451+00:00, run_after=2023-06-10T22:19:01.393451+00:00
+[2023-06-11T00:19:01.467+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.285 seconds
+[2023-06-11T00:20:31.547+0200] {processor.py:156} INFO - Started process (PID=4911) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:20:31.553+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:20:31.558+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:20:31.558+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:20:31.601+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:20:31.677+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:20:31.676+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:20:31.750+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:20:31.747+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:20:31.747094+00:00, run_after=2023-06-10T22:20:31.747094+00:00
+[2023-06-11T00:20:31.864+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.327 seconds
+[2023-06-11T00:21:29.204+0200] {processor.py:156} INFO - Started process (PID=4946) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:21:29.207+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:21:29.209+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:21:29.209+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:21:29.294+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:21:29.466+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:21:29.465+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:21:29.620+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:21:29.619+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:21:29.618723+00:00, run_after=2023-06-10T22:21:29.618723+00:00
+[2023-06-11T00:21:29.714+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.522 seconds
+[2023-06-11T00:22:39.034+0200] {processor.py:156} INFO - Started process (PID=4982) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:22:39.046+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:22:39.049+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:22:39.048+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:22:39.156+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:22:39.328+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:22:39.327+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:22:39.472+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:22:39.472+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:22:39.471645+00:00, run_after=2023-06-10T22:22:39.471645+00:00
+[2023-06-11T00:22:39.960+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.933 seconds
+[2023-06-11T00:23:36.917+0200] {processor.py:156} INFO - Started process (PID=5016) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:23:36.945+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:23:36.948+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:23:36.947+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:23:37.140+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:23:37.422+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:23:37.411+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:23:37.576+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:23:37.576+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:23:37.575046+00:00, run_after=2023-06-10T22:23:37.575046+00:00
+[2023-06-11T00:23:37.737+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.856 seconds
+[2023-06-11T00:24:56.609+0200] {processor.py:156} INFO - Started process (PID=5053) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:24:56.625+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:24:56.627+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:24:56.627+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:24:56.974+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:24:57.621+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:24:57.620+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:24:57.832+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:24:57.832+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:24:57.821879+00:00, run_after=2023-06-10T22:24:57.821879+00:00
+[2023-06-11T00:24:58.633+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 2.043 seconds
+[2023-06-11T00:26:32.510+0200] {processor.py:156} INFO - Started process (PID=5088) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:26:32.515+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:26:32.517+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:26:32.516+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:26:32.564+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:26:32.645+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:26:32.644+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:26:32.718+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:26:32.717+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:26:32.716662+00:00, run_after=2023-06-10T22:26:32.716662+00:00
+[2023-06-11T00:26:33.143+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.640 seconds
+[2023-06-11T00:27:29.940+0200] {processor.py:156} INFO - Started process (PID=5125) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:27:29.946+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:27:29.947+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:27:29.947+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:27:30.009+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:27:30.079+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:27:30.079+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:27:30.421+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:27:30.421+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:27:30.420696+00:00, run_after=2023-06-10T22:27:30.420696+00:00
+[2023-06-11T00:27:30.485+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.557 seconds
+[2023-06-11T00:28:30.594+0200] {processor.py:156} INFO - Started process (PID=5161) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:28:30.600+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:28:30.601+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:30.601+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:28:30.647+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:28:30.724+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:30.724+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:28:31.074+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:28:31.074+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:28:31.073830+00:00, run_after=2023-06-10T22:28:31.073830+00:00
+[2023-06-11T00:28:31.136+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.552 seconds
+[2023-06-11T00:29:26.665+0200] {processor.py:156} INFO - Started process (PID=5195) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:29:26.671+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:29:26.672+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:29:26.672+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:29:26.712+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:29:26.806+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:29:26.805+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:29:27.170+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:29:27.170+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:29:27.169908+00:00, run_after=2023-06-10T22:29:27.169908+00:00
+[2023-06-11T00:29:27.237+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.582 seconds
+[2023-06-11T00:30:38.273+0200] {processor.py:156} INFO - Started process (PID=5232) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:30:38.277+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:30:38.279+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:30:38.278+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:30:38.319+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:30:38.677+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:30:38.677+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:30:38.736+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:30:38.736+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:30:38.735815+00:00, run_after=2023-06-10T22:30:38.735815+00:00
+[2023-06-11T00:30:38.793+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.531 seconds
+[2023-06-11T00:31:36.696+0200] {processor.py:156} INFO - Started process (PID=5267) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:31:36.702+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:31:36.705+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:31:36.704+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:31:36.755+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:31:37.137+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:31:37.136+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:31:37.187+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:31:37.186+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:31:37.186302+00:00, run_after=2023-06-10T22:31:37.186302+00:00
+[2023-06-11T00:31:37.320+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.633 seconds
+[2023-06-11T00:32:32.415+0200] {processor.py:156} INFO - Started process (PID=5302) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:32:32.420+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:32:32.424+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:32.423+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:32:32.775+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:32:32.830+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:32.830+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:32:32.879+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:32:32.879+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:32:32.878995+00:00, run_after=2023-06-10T22:32:32.878995+00:00
+[2023-06-11T00:32:32.935+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.529 seconds
+[2023-06-11T00:33:25.780+0200] {processor.py:156} INFO - Started process (PID=5338) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:33:25.785+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:33:25.786+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:33:25.786+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:33:26.152+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:33:26.205+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:33:26.204+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:33:26.255+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:33:26.255+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:33:26.254730+00:00, run_after=2023-06-10T22:33:26.254730+00:00
+[2023-06-11T00:33:26.321+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.550 seconds
+[2023-06-11T00:34:24.191+0200] {processor.py:156} INFO - Started process (PID=5373) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:34:24.197+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:34:24.200+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:34:24.199+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:34:24.242+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:34:24.321+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:34:24.320+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:34:24.395+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:34:24.395+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:34:24.394358+00:00, run_after=2023-06-10T22:34:24.394358+00:00
+[2023-06-11T00:34:24.479+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.296 seconds
+[2023-06-11T00:35:28.540+0200] {processor.py:156} INFO - Started process (PID=5412) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:35:28.545+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:35:28.546+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:35:28.546+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:35:28.580+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:35:28.654+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:35:28.653+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:35:28.698+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:35:28.697+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:35:28.697147+00:00, run_after=2023-06-10T22:35:28.697147+00:00
+[2023-06-11T00:35:28.744+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.211 seconds
+[2023-06-11T00:36:12.860+0200] {processor.py:156} INFO - Started process (PID=5445) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:36:12.865+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:36:12.867+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:12.867+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:36:12.900+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:36:12.957+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:12.957+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:36:13.005+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:13.004+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:36:13.004241+00:00, run_after=2023-06-10T22:36:13.004241+00:00
+[2023-06-11T00:36:13.064+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.211 seconds
+[2023-06-11T00:36:56.037+0200] {processor.py:156} INFO - Started process (PID=5479) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:36:56.046+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:36:56.048+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:56.047+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:36:56.152+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:36:56.397+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:56.396+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:36:56.554+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:36:56.544+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:36:56.543458+00:00, run_after=2023-06-10T22:36:56.543458+00:00
+[2023-06-11T00:36:56.726+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.723 seconds
+[2023-06-11T00:37:43.957+0200] {processor.py:156} INFO - Started process (PID=5513) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:37:43.962+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:37:43.964+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:37:43.963+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:37:44.001+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:37:44.098+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:37:44.098+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:37:44.203+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:37:44.203+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:37:44.202703+00:00, run_after=2023-06-10T22:37:44.202703+00:00
+[2023-06-11T00:37:44.325+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.376 seconds
+[2023-06-11T00:38:34.600+0200] {processor.py:156} INFO - Started process (PID=5549) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:38:34.604+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:38:34.606+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:34.605+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:38:34.690+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:38:34.817+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:34.816+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:38:34.947+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:38:34.947+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:38:34.946685+00:00, run_after=2023-06-10T22:38:34.946685+00:00
+[2023-06-11T00:38:35.085+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.495 seconds
+[2023-06-11T00:39:18.650+0200] {processor.py:156} INFO - Started process (PID=5582) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:39:18.658+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:39:18.659+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:39:18.659+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:39:18.697+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:39:18.764+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:39:18.763+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:39:18.824+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:39:18.824+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:39:18.823788+00:00, run_after=2023-06-10T22:39:18.823788+00:00
+[2023-06-11T00:39:18.892+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.249 seconds
+[2023-06-11T00:40:02.438+0200] {processor.py:156} INFO - Started process (PID=5616) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:40:02.456+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:40:02.458+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:02.457+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:40:02.509+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:40:02.590+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:02.589+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:40:02.647+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:02.647+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:40:02.646791+00:00, run_after=2023-06-10T22:40:02.646791+00:00
+[2023-06-11T00:40:02.699+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.280 seconds
+[2023-06-11T00:40:45.281+0200] {processor.py:156} INFO - Started process (PID=5650) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:40:45.286+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:40:45.288+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:45.288+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:40:45.324+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:40:45.378+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:45.378+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:40:45.424+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:40:45.424+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:40:45.424098+00:00, run_after=2023-06-10T22:40:45.424098+00:00
+[2023-06-11T00:40:45.476+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.201 seconds
+[2023-06-11T00:41:28.119+0200] {processor.py:156} INFO - Started process (PID=5684) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:41:28.124+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:41:28.125+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:28.125+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:41:28.163+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:41:28.301+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:28.300+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:41:28.406+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:41:28.405+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:41:28.402710+00:00, run_after=2023-06-10T22:41:28.402710+00:00
+[2023-06-11T00:41:28.477+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.366 seconds
+[2023-06-11T00:42:15.475+0200] {processor.py:156} INFO - Started process (PID=5722) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:42:15.483+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:42:15.485+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:42:15.484+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:42:15.561+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:42:15.676+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:42:15.676+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:42:15.766+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:42:15.766+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:42:15.765829+00:00, run_after=2023-06-10T22:42:15.765829+00:00
+[2023-06-11T00:42:15.843+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.387 seconds
+[2023-06-11T00:43:03.411+0200] {processor.py:156} INFO - Started process (PID=5756) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:43:03.414+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:43:03.416+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:03.416+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:43:03.470+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:43:03.581+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:03.581+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:43:03.645+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:03.645+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:43:03.644424+00:00, run_after=2023-06-10T22:43:03.644424+00:00
+[2023-06-11T00:43:03.716+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.312 seconds
+[2023-06-11T00:43:47.440+0200] {processor.py:156} INFO - Started process (PID=5790) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:43:47.446+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:43:47.448+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:47.447+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:43:47.491+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:43:47.553+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:47.552+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:43:47.599+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:43:47.599+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:43:47.598540+00:00, run_after=2023-06-10T22:43:47.598540+00:00
+[2023-06-11T00:43:47.653+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.220 seconds
+[2023-06-11T00:44:36.500+0200] {processor.py:156} INFO - Started process (PID=5824) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:44:36.508+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:44:36.515+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:36.515+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:44:36.558+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:44:36.622+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:36.621+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:44:36.670+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:44:36.670+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:44:36.669696+00:00, run_after=2023-06-10T22:44:36.669696+00:00
+[2023-06-11T00:44:36.730+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.237 seconds
+[2023-06-11T00:45:26.157+0200] {processor.py:156} INFO - Started process (PID=5859) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:45:26.163+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-06-11T00:45:26.165+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:45:26.165+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:45:26.278+0200] {processor.py:768} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-06-11T00:45:26.454+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:45:26.453+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-11T00:45:26.536+0200] {logging_mixin.py:117} INFO - [2023-06-11T00:45:26.535+0200] {dag.py:3324} INFO - Setting next_dagrun for tutorial to 2023-06-09T22:45:26.534432+00:00, run_after=2023-06-10T22:45:26.534432+00:00
+[2023-06-11T00:45:26.615+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.473 seconds

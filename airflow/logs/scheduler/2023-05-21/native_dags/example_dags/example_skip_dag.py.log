@@ -1,0 +1,756 @@
+[2023-05-21T21:18:49.018+0200] {processor.py:156} INFO - Started process (PID=2303) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:18:49.020+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:18:49.068+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:18:49.056+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:18:49.800+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:18:51.783+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:18:51.782+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:18:52.379+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:18:52.379+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:18:52.375475+00:00, run_after=2023-05-21T19:18:52.375475+00:00
+[2023-05-21T21:18:52.699+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 4.059 seconds
+[2023-05-21T21:20:23.675+0200] {processor.py:156} INFO - Started process (PID=2445) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:20:23.679+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:20:23.681+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:20:23.680+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:20:23.736+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:20:23.842+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:20:23.842+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:20:23.915+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:20:23.914+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:20:23.914218+00:00, run_after=2023-05-21T19:20:23.914218+00:00
+[2023-05-21T21:20:24.022+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.357 seconds
+[2023-05-21T21:21:21.959+0200] {processor.py:156} INFO - Started process (PID=2482) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:21:21.978+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:21:21.980+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:21:21.980+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:21:22.117+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:21:22.368+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:21:22.367+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:21:22.525+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:21:22.524+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:21:22.513526+00:00, run_after=2023-05-21T19:21:22.513526+00:00
+[2023-05-21T21:21:22.691+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.751 seconds
+[2023-05-21T21:23:14.894+0200] {processor.py:156} INFO - Started process (PID=2533) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:23:14.957+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:23:14.959+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:23:14.958+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:23:15.168+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:23:15.396+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:23:15.396+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:23:15.581+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:23:15.580+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:23:15.579865+00:00, run_after=2023-05-21T19:23:15.579865+00:00
+[2023-05-21T21:23:15.874+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 1.013 seconds
+[2023-05-21T21:25:12.089+0200] {processor.py:156} INFO - Started process (PID=2885) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:25:12.104+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:25:12.106+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:25:12.105+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:25:12.216+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:25:12.385+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:25:12.385+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:25:12.710+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:25:12.709+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:25:12.706147+00:00, run_after=2023-05-21T19:25:12.706147+00:00
+[2023-05-21T21:25:12.895+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.825 seconds
+[2023-05-21T21:27:49.802+0200] {processor.py:156} INFO - Started process (PID=2964) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:27:49.807+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:27:49.809+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:27:49.808+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:27:49.858+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:27:49.938+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:27:49.938+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:27:50.026+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:27:50.022+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:27:50.015055+00:00, run_after=2023-05-21T19:27:50.015055+00:00
+[2023-05-21T21:27:50.120+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.325 seconds
+[2023-05-21T21:29:01.263+0200] {processor.py:156} INFO - Started process (PID=3000) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:29:01.274+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:29:01.276+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:29:01.275+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:29:01.356+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:29:01.526+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:29:01.525+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:29:01.685+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:29:01.685+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:29:01.684834+00:00, run_after=2023-05-21T19:29:01.684834+00:00
+[2023-05-21T21:29:01.816+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.563 seconds
+[2023-05-21T21:32:51.133+0200] {processor.py:156} INFO - Started process (PID=3798) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:32:51.138+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:32:51.140+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:32:51.139+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:32:51.228+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:32:51.289+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:32:51.289+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:32:51.399+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:32:51.399+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:32:51.395299+00:00, run_after=2023-05-21T19:32:51.395299+00:00
+[2023-05-21T21:32:51.788+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.673 seconds
+[2023-05-21T21:33:48.088+0200] {processor.py:156} INFO - Started process (PID=3839) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:33:48.093+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:33:48.095+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:33:48.095+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:33:48.108+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:33:48.147+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:33:48.147+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:33:48.202+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:33:48.201+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:33:48.201041+00:00, run_after=2023-05-21T19:33:48.201041+00:00
+[2023-05-21T21:33:48.265+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.185 seconds
+[2023-05-21T21:34:30.681+0200] {processor.py:156} INFO - Started process (PID=3874) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:34:30.686+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:34:30.687+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:34:30.687+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:34:30.700+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:34:30.734+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:34:30.734+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:34:30.771+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:34:30.770+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:34:30.770412+00:00, run_after=2023-05-21T19:34:30.770412+00:00
+[2023-05-21T21:34:30.826+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.152 seconds
+[2023-05-21T21:35:09.198+0200] {processor.py:156} INFO - Started process (PID=3908) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:35:09.203+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:35:09.205+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:09.204+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:35:09.216+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:35:09.251+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:09.251+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:35:09.289+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:09.289+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:35:09.289033+00:00, run_after=2023-05-21T19:35:09.289033+00:00
+[2023-05-21T21:35:09.342+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T21:35:47.561+0200] {processor.py:156} INFO - Started process (PID=3942) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:35:47.568+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:35:47.569+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:47.569+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:35:47.585+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:35:47.622+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:47.621+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:35:47.659+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:47.659+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:35:47.658483+00:00, run_after=2023-05-21T19:35:47.658483+00:00
+[2023-05-21T21:35:47.714+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.160 seconds
+[2023-05-21T21:36:34.145+0200] {processor.py:156} INFO - Started process (PID=3982) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:36:34.153+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:36:34.154+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:36:34.154+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:36:34.167+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:36:34.204+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:36:34.203+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:36:34.240+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:36:34.240+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:36:34.239859+00:00, run_after=2023-05-21T19:36:34.239859+00:00
+[2023-05-21T21:36:34.305+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.166 seconds
+[2023-05-21T21:37:16.425+0200] {processor.py:156} INFO - Started process (PID=4024) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:37:16.431+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:37:16.432+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:16.432+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:37:16.469+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:37:16.575+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:16.575+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:37:16.747+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:16.746+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:37:16.745231+00:00, run_after=2023-05-21T19:37:16.745231+00:00
+[2023-05-21T21:37:16.873+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.461 seconds
+[2023-05-21T21:37:57.695+0200] {processor.py:156} INFO - Started process (PID=4059) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:37:57.699+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:37:57.709+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:57.708+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:37:57.733+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:37:57.822+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:57.822+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:37:57.946+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:57.946+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:37:57.933761+00:00, run_after=2023-05-21T19:37:57.933761+00:00
+[2023-05-21T21:37:58.117+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.440 seconds
+[2023-05-21T21:38:37.322+0200] {processor.py:156} INFO - Started process (PID=4094) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:38:37.329+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:38:37.330+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:38:37.330+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:38:37.347+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:38:37.398+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:38:37.397+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:38:37.443+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:38:37.442+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:38:37.442353+00:00, run_after=2023-05-21T19:38:37.442353+00:00
+[2023-05-21T21:38:37.514+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.199 seconds
+[2023-05-21T21:39:34.120+0200] {processor.py:156} INFO - Started process (PID=4139) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:39:34.125+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:39:34.126+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:39:34.126+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:39:34.142+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:39:34.185+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:39:34.185+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:39:34.228+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:39:34.227+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:39:34.226892+00:00, run_after=2023-05-21T19:39:34.226892+00:00
+[2023-05-21T21:39:34.284+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.172 seconds
+[2023-05-21T21:40:18.024+0200] {processor.py:156} INFO - Started process (PID=4175) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:40:18.030+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:40:18.032+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:18.031+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:40:18.045+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:40:18.079+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:18.078+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:40:18.117+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:18.116+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:40:18.116388+00:00, run_after=2023-05-21T19:40:18.116388+00:00
+[2023-05-21T21:40:18.174+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.157 seconds
+[2023-05-21T21:40:58.783+0200] {processor.py:156} INFO - Started process (PID=4209) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:40:58.786+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:40:58.787+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:58.787+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:40:58.799+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:40:58.834+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:58.834+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:40:58.873+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:58.873+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:40:58.872901+00:00, run_after=2023-05-21T19:40:58.872901+00:00
+[2023-05-21T21:40:58.922+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2023-05-21T21:41:40.875+0200] {processor.py:156} INFO - Started process (PID=4244) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:41:40.878+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:41:40.879+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:41:40.879+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:41:40.893+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:41:40.929+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:41:40.929+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:41:40.967+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:41:40.967+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:41:40.966497+00:00, run_after=2023-05-21T19:41:40.966497+00:00
+[2023-05-21T21:41:41.037+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.168 seconds
+[2023-05-21T21:42:20.350+0200] {processor.py:156} INFO - Started process (PID=4279) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:42:20.355+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:42:20.357+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:20.356+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:42:20.368+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:42:20.406+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:20.405+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:42:20.442+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:20.442+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:42:20.441718+00:00, run_after=2023-05-21T19:42:20.441718+00:00
+[2023-05-21T21:42:20.489+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2023-05-21T21:43:01.214+0200] {processor.py:156} INFO - Started process (PID=4313) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:43:01.218+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:43:01.220+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:01.219+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:43:01.233+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:43:01.269+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:01.269+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:43:01.305+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:01.304+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:43:01.304137+00:00, run_after=2023-05-21T19:43:01.304137+00:00
+[2023-05-21T21:43:01.362+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.154 seconds
+[2023-05-21T21:43:40.451+0200] {processor.py:156} INFO - Started process (PID=4347) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:43:40.456+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:43:40.458+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:40.457+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:43:40.469+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:43:40.505+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:40.505+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:43:40.542+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:40.541+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:43:40.541293+00:00, run_after=2023-05-21T19:43:40.541293+00:00
+[2023-05-21T21:43:40.593+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2023-05-21T21:44:21.528+0200] {processor.py:156} INFO - Started process (PID=4382) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:44:21.533+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:44:21.535+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:21.535+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:44:21.548+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:44:21.582+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:21.582+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:44:21.619+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:21.619+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:44:21.618450+00:00, run_after=2023-05-21T19:44:21.618450+00:00
+[2023-05-21T21:44:21.671+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T21:45:00.371+0200] {processor.py:156} INFO - Started process (PID=4416) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:45:00.377+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:45:00.378+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:00.378+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:45:00.390+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:45:00.427+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:00.426+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:45:00.467+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:00.467+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:45:00.466629+00:00, run_after=2023-05-21T19:45:00.466629+00:00
+[2023-05-21T21:45:00.519+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.157 seconds
+[2023-05-21T21:45:39.434+0200] {processor.py:156} INFO - Started process (PID=4450) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:45:39.439+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:45:39.441+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:39.440+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:45:39.453+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:45:39.489+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:39.488+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:45:39.524+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:39.524+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:45:39.523742+00:00, run_after=2023-05-21T19:45:39.523742+00:00
+[2023-05-21T21:45:39.576+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2023-05-21T21:46:21.243+0200] {processor.py:156} INFO - Started process (PID=4484) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:46:21.248+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:46:21.250+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:21.249+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:46:21.263+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:46:21.298+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:21.297+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:46:21.336+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:21.335+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:46:21.335329+00:00, run_after=2023-05-21T19:46:21.335329+00:00
+[2023-05-21T21:46:21.383+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2023-05-21T21:47:02.189+0200] {processor.py:156} INFO - Started process (PID=4519) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:47:02.195+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:47:02.196+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:02.196+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:47:02.209+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:47:02.244+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:02.243+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:47:02.282+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:02.282+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:47:02.281948+00:00, run_after=2023-05-21T19:47:02.281948+00:00
+[2023-05-21T21:47:02.337+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.154 seconds
+[2023-05-21T21:47:41.514+0200] {processor.py:156} INFO - Started process (PID=4553) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:47:41.519+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:47:41.520+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:41.520+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:47:41.531+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:47:41.566+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:41.565+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:47:41.602+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:41.602+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:47:41.601364+00:00, run_after=2023-05-21T19:47:41.601364+00:00
+[2023-05-21T21:47:41.647+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2023-05-21T21:48:18.666+0200] {processor.py:156} INFO - Started process (PID=4587) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:48:18.672+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:48:18.673+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:18.673+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:48:18.685+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:48:18.721+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:18.720+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:48:18.756+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:18.756+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:48:18.755993+00:00, run_after=2023-05-21T19:48:18.755993+00:00
+[2023-05-21T21:48:18.805+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.145 seconds
+[2023-05-21T21:48:55.944+0200] {processor.py:156} INFO - Started process (PID=4620) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:48:55.950+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:48:55.951+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:55.951+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:48:55.965+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:48:56.000+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:56.000+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:48:56.036+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:56.036+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:48:56.035753+00:00, run_after=2023-05-21T19:48:56.035753+00:00
+[2023-05-21T21:48:56.088+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.151 seconds
+[2023-05-21T21:49:34.190+0200] {processor.py:156} INFO - Started process (PID=4655) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:49:34.197+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:49:34.199+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:49:34.199+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:49:34.210+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:49:34.246+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:49:34.246+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:49:34.283+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:49:34.283+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:49:34.282775+00:00, run_after=2023-05-21T19:49:34.282775+00:00
+[2023-05-21T21:49:34.342+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.159 seconds
+[2023-05-21T21:50:12.385+0200] {processor.py:156} INFO - Started process (PID=4688) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:50:12.390+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:50:12.392+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:12.391+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:50:12.406+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:50:12.442+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:12.441+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:50:12.479+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:12.479+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:50:12.478666+00:00, run_after=2023-05-21T19:50:12.478666+00:00
+[2023-05-21T21:50:12.526+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.148 seconds
+[2023-05-21T21:50:52.420+0200] {processor.py:156} INFO - Started process (PID=4722) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:50:52.426+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:50:52.427+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:52.427+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:50:52.439+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:50:52.476+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:52.475+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:50:52.516+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:52.515+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:50:52.515117+00:00, run_after=2023-05-21T19:50:52.515117+00:00
+[2023-05-21T21:50:52.574+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.164 seconds
+[2023-05-21T21:51:42.792+0200] {processor.py:156} INFO - Started process (PID=4762) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:51:42.798+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:51:42.799+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:51:42.799+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:51:42.893+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:51:43.025+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:51:43.024+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:51:43.114+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:51:43.114+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:51:43.113437+00:00, run_after=2023-05-21T19:51:43.113437+00:00
+[2023-05-21T21:51:43.425+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.671 seconds
+[2023-05-21T21:52:25.925+0200] {processor.py:156} INFO - Started process (PID=4800) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:52:25.929+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:52:25.931+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:52:25.930+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:52:25.942+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:52:25.978+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:52:25.978+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:52:26.015+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:52:26.015+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:52:26.014810+00:00, run_after=2023-05-21T19:52:26.014810+00:00
+[2023-05-21T21:52:26.064+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.145 seconds
+[2023-05-21T21:53:09.275+0200] {processor.py:156} INFO - Started process (PID=4838) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:53:09.287+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:53:09.289+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:09.289+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:53:09.309+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:53:09.388+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:09.387+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:53:09.505+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:09.504+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:53:09.504186+00:00, run_after=2023-05-21T19:53:09.504186+00:00
+[2023-05-21T21:53:09.665+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.397 seconds
+[2023-05-21T21:53:48.964+0200] {processor.py:156} INFO - Started process (PID=4872) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:53:48.970+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:53:48.972+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:48.972+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:53:48.984+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:53:49.025+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:49.025+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:53:49.063+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:49.063+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:53:49.063005+00:00, run_after=2023-05-21T19:53:49.063005+00:00
+[2023-05-21T21:53:49.115+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2023-05-21T21:54:30.315+0200] {processor.py:156} INFO - Started process (PID=4907) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:54:30.320+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:54:30.326+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:54:30.326+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:54:30.351+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:54:30.419+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:54:30.419+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:54:30.485+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:54:30.484+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:54:30.483767+00:00, run_after=2023-05-21T19:54:30.483767+00:00
+[2023-05-21T21:54:30.575+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.269 seconds
+[2023-05-21T21:55:07.335+0200] {processor.py:156} INFO - Started process (PID=4940) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:55:07.341+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:55:07.342+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:07.342+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:55:07.357+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:55:07.395+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:07.394+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:55:07.433+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:07.433+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:55:07.432909+00:00, run_after=2023-05-21T19:55:07.432909+00:00
+[2023-05-21T21:55:07.494+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.166 seconds
+[2023-05-21T21:55:46.859+0200] {processor.py:156} INFO - Started process (PID=4974) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:55:46.865+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:55:46.867+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:46.867+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:55:46.898+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:55:46.975+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:46.975+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:55:47.036+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:47.036+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:55:47.035800+00:00, run_after=2023-05-21T19:55:47.035800+00:00
+[2023-05-21T21:55:47.081+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.237 seconds
+[2023-05-21T21:56:25.428+0200] {processor.py:156} INFO - Started process (PID=5008) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:56:25.434+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:56:25.436+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:56:25.436+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:56:25.450+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:56:25.488+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:56:25.487+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:56:25.534+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:56:25.533+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:56:25.533116+00:00, run_after=2023-05-21T19:56:25.533116+00:00
+[2023-05-21T21:56:25.586+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.164 seconds
+[2023-05-21T21:57:04.427+0200] {processor.py:156} INFO - Started process (PID=5042) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:57:04.437+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:57:04.439+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:04.438+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:57:04.472+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:57:04.553+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:04.552+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:57:04.608+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:04.608+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:57:04.607537+00:00, run_after=2023-05-21T19:57:04.607537+00:00
+[2023-05-21T21:57:04.686+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.276 seconds
+[2023-05-21T21:57:53.446+0200] {processor.py:156} INFO - Started process (PID=5075) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:57:53.452+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:57:53.454+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:53.453+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:57:53.483+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:57:53.539+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:53.539+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:57:53.680+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:53.680+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:57:53.679442+00:00, run_after=2023-05-21T19:57:53.679442+00:00
+[2023-05-21T21:57:53.790+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.360 seconds
+[2023-05-21T21:58:39.995+0200] {processor.py:156} INFO - Started process (PID=5110) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:58:40.007+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:58:40.009+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:58:40.008+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:58:40.023+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:58:40.067+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:58:40.067+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:58:40.109+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:58:40.109+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:58:40.108806+00:00, run_after=2023-05-21T19:58:40.108806+00:00
+[2023-05-21T21:58:40.193+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.213 seconds
+[2023-05-21T21:59:20.849+0200] {processor.py:156} INFO - Started process (PID=5144) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:59:20.852+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:59:20.854+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:20.854+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:59:20.876+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:59:20.936+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:20.936+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:59:21.003+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:21.002+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:59:21.002167+00:00, run_after=2023-05-21T19:59:21.002167+00:00
+[2023-05-21T21:59:21.093+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.254 seconds
+[2023-05-21T21:59:58.328+0200] {processor.py:156} INFO - Started process (PID=5178) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:59:58.334+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T21:59:58.335+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:58.335+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:59:58.351+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T21:59:58.410+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:58.409+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:59:58.450+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:58.450+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T19:59:58.449482+00:00, run_after=2023-05-21T19:59:58.449482+00:00
+[2023-05-21T21:59:58.510+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2023-05-21T22:00:38.591+0200] {processor.py:156} INFO - Started process (PID=5212) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:00:38.597+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:00:38.599+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:00:38.598+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:00:38.611+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:00:38.651+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:00:38.651+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:00:38.689+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:00:38.688+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:00:38.687977+00:00, run_after=2023-05-21T20:00:38.687977+00:00
+[2023-05-21T22:00:38.743+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2023-05-21T22:01:16.749+0200] {processor.py:156} INFO - Started process (PID=5246) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:01:16.756+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:01:16.761+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:16.760+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:01:16.780+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:01:16.849+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:16.848+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:01:16.930+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:16.930+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:01:16.929897+00:00, run_after=2023-05-21T20:01:16.929897+00:00
+[2023-05-21T22:01:17.018+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.287 seconds
+[2023-05-21T22:01:57.384+0200] {processor.py:156} INFO - Started process (PID=5280) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:01:57.395+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:01:57.400+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:57.400+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:01:57.433+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:01:57.506+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:57.506+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:01:57.582+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:57.582+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:01:57.581534+00:00, run_after=2023-05-21T20:01:57.581534+00:00
+[2023-05-21T22:01:57.696+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.342 seconds
+[2023-05-21T22:02:38.204+0200] {processor.py:156} INFO - Started process (PID=5313) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:02:38.208+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:02:38.209+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:02:38.209+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:02:38.225+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:02:38.271+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:02:38.270+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:02:38.317+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:02:38.316+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:02:38.316214+00:00, run_after=2023-05-21T20:02:38.316214+00:00
+[2023-05-21T22:02:38.557+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.363 seconds
+[2023-05-21T22:03:21.506+0200] {processor.py:156} INFO - Started process (PID=5347) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:03:21.511+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:03:21.513+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:21.512+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:03:21.526+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:03:21.563+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:21.562+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:03:21.600+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:21.600+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:03:21.600061+00:00, run_after=2023-05-21T20:03:21.600061+00:00
+[2023-05-21T22:03:21.647+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.148 seconds
+[2023-05-21T22:04:01.920+0200] {processor.py:156} INFO - Started process (PID=5381) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:04:01.926+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:04:01.927+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:01.927+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:04:01.939+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:04:01.975+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:01.975+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:04:02.013+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:02.012+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:04:02.012058+00:00, run_after=2023-05-21T20:04:02.012058+00:00
+[2023-05-21T22:04:02.056+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2023-05-21T22:04:40.264+0200] {processor.py:156} INFO - Started process (PID=5415) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:04:40.270+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:04:40.272+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:40.271+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:04:40.285+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:04:40.320+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:40.320+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:04:40.358+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:40.357+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:04:40.356984+00:00, run_after=2023-05-21T20:04:40.356984+00:00
+[2023-05-21T22:04:40.423+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.165 seconds
+[2023-05-21T22:05:17.894+0200] {processor.py:156} INFO - Started process (PID=5449) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:05:17.900+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:05:17.901+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:17.901+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:05:17.913+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:05:17.949+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:17.948+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:05:17.986+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:17.986+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:05:17.985701+00:00, run_after=2023-05-21T20:05:17.985701+00:00
+[2023-05-21T22:05:18.037+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2023-05-21T22:05:58.183+0200] {processor.py:156} INFO - Started process (PID=5483) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:05:58.189+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:05:58.190+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:58.190+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:05:58.203+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:05:58.238+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:58.238+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:05:58.277+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:58.276+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:05:58.276183+00:00, run_after=2023-05-21T20:05:58.276183+00:00
+[2023-05-21T22:05:58.329+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.152 seconds
+[2023-05-21T22:06:36.606+0200] {processor.py:156} INFO - Started process (PID=5517) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:06:36.612+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:06:36.614+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:06:36.613+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:06:36.625+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:06:36.660+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:06:36.660+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:06:36.697+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:06:36.696+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:06:36.695870+00:00, run_after=2023-05-21T20:06:36.695870+00:00
+[2023-05-21T22:06:36.741+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2023-05-21T22:07:17.505+0200] {processor.py:156} INFO - Started process (PID=5551) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:07:17.510+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:07:17.512+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:17.511+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:07:17.525+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:07:17.559+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:17.558+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:07:17.594+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:17.594+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:07:17.593921+00:00, run_after=2023-05-21T20:07:17.593921+00:00
+[2023-05-21T22:07:17.641+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.143 seconds
+[2023-05-21T22:07:55.768+0200] {processor.py:156} INFO - Started process (PID=5585) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:07:55.772+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:07:55.774+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:55.773+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:07:55.786+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:07:55.822+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:55.822+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:07:55.859+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:55.858+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:07:55.858338+00:00, run_after=2023-05-21T20:07:55.858338+00:00
+[2023-05-21T22:07:55.911+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2023-05-21T22:08:35.984+0200] {processor.py:156} INFO - Started process (PID=5647) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:08:35.989+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:08:35.991+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:08:35.990+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:08:36.003+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:08:36.038+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:08:36.038+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:08:36.075+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:08:36.075+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:08:36.074650+00:00, run_after=2023-05-21T20:08:36.074650+00:00
+[2023-05-21T22:08:36.120+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2023-05-21T22:09:13.294+0200] {processor.py:156} INFO - Started process (PID=5681) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:09:13.300+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:09:13.301+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:13.301+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:09:13.314+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:09:13.352+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:13.352+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:09:13.388+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:13.388+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:09:13.387982+00:00, run_after=2023-05-21T20:09:13.387982+00:00
+[2023-05-21T22:09:13.445+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2023-05-21T22:09:55.054+0200] {processor.py:156} INFO - Started process (PID=5715) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:09:55.059+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:09:55.060+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:55.059+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:09:55.074+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:09:55.117+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:55.116+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:09:55.164+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:55.164+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:09:55.163563+00:00, run_after=2023-05-21T20:09:55.163563+00:00
+[2023-05-21T22:09:55.212+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.164 seconds
+[2023-05-21T22:10:36.026+0200] {processor.py:156} INFO - Started process (PID=5749) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:10:36.032+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:10:36.033+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:10:36.033+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:10:36.045+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:10:36.081+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:10:36.081+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:10:36.121+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:10:36.121+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:10:36.120369+00:00, run_after=2023-05-21T20:10:36.120369+00:00
+[2023-05-21T22:10:36.229+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.212 seconds
+[2023-05-21T22:11:24.343+0200] {processor.py:156} INFO - Started process (PID=5783) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:11:24.349+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:11:24.350+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:11:24.350+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:11:24.361+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:11:24.397+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:11:24.397+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:11:24.434+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:11:24.433+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:11:24.433321+00:00, run_after=2023-05-21T20:11:24.433321+00:00
+[2023-05-21T22:11:24.494+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2023-05-21T22:12:10.159+0200] {processor.py:156} INFO - Started process (PID=5817) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:12:10.162+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:12:10.163+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:10.163+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:12:10.175+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:12:10.217+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:10.217+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:12:10.262+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:10.262+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:12:10.261778+00:00, run_after=2023-05-21T20:12:10.261778+00:00
+[2023-05-21T22:12:10.308+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.156 seconds
+[2023-05-21T22:12:50.463+0200] {processor.py:156} INFO - Started process (PID=5851) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:12:50.468+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:12:50.469+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:50.469+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:12:50.482+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:12:50.517+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:50.517+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:12:50.553+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:50.553+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:12:50.552850+00:00, run_after=2023-05-21T20:12:50.552850+00:00
+[2023-05-21T22:12:50.598+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2023-05-21T22:13:30.417+0200] {processor.py:156} INFO - Started process (PID=5887) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:13:30.423+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:13:30.424+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:13:30.424+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:13:30.436+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:13:30.472+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:13:30.471+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:13:30.508+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:13:30.507+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:13:30.507197+00:00, run_after=2023-05-21T20:13:30.507197+00:00
+[2023-05-21T22:13:30.554+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2023-05-21T22:14:10.909+0200] {processor.py:156} INFO - Started process (PID=5922) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:14:10.914+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:14:10.915+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:10.915+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:14:10.931+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:14:10.972+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:10.972+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:14:11.059+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:11.058+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:14:11.057620+00:00, run_after=2023-05-21T20:14:11.057620+00:00
+[2023-05-21T22:14:11.140+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.238 seconds
+[2023-05-21T22:14:50.732+0200] {processor.py:156} INFO - Started process (PID=5956) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:14:50.737+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:14:50.739+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:50.738+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:14:50.750+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:14:50.788+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:50.787+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:14:50.824+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:50.824+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:14:50.823745+00:00, run_after=2023-05-21T20:14:50.823745+00:00
+[2023-05-21T22:14:50.875+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T22:15:32.348+0200] {processor.py:156} INFO - Started process (PID=5990) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:15:32.353+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:15:32.355+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:15:32.355+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:15:32.371+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:15:32.417+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:15:32.417+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:15:32.455+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:15:32.455+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:15:32.454596+00:00, run_after=2023-05-21T20:15:32.454596+00:00
+[2023-05-21T22:15:32.506+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.167 seconds
+[2023-05-21T22:16:14.359+0200] {processor.py:156} INFO - Started process (PID=6025) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:16:14.365+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:16:14.366+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:14.366+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:16:14.379+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:16:14.417+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:14.416+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:16:14.496+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:14.495+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:16:14.493942+00:00, run_after=2023-05-21T20:16:14.493942+00:00
+[2023-05-21T22:16:14.551+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2023-05-21T22:16:56.711+0200] {processor.py:156} INFO - Started process (PID=6059) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:16:56.717+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:16:56.719+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:56.718+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:16:56.733+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:16:56.775+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:56.775+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:16:56.819+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:56.819+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:16:56.818615+00:00, run_after=2023-05-21T20:16:56.818615+00:00
+[2023-05-21T22:16:56.874+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.171 seconds
+[2023-05-21T22:17:35.059+0200] {processor.py:156} INFO - Started process (PID=6097) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:17:35.065+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:17:35.066+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:17:35.066+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:17:35.077+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:17:35.114+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:17:35.113+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:17:35.150+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:17:35.149+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:17:35.149333+00:00, run_after=2023-05-21T20:17:35.149333+00:00
+[2023-05-21T22:17:35.196+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.143 seconds
+[2023-05-21T22:18:13.515+0200] {processor.py:156} INFO - Started process (PID=6132) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:18:13.522+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:18:13.523+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:13.523+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:18:13.541+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:18:13.578+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:13.577+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:18:13.614+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:13.614+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:18:13.613998+00:00, run_after=2023-05-21T20:18:13.613998+00:00
+[2023-05-21T22:18:13.659+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T22:18:50.952+0200] {processor.py:156} INFO - Started process (PID=6166) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:18:50.959+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:18:50.960+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:50.960+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:18:50.971+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:18:51.008+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:51.007+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:18:51.045+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:51.045+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:18:51.044925+00:00, run_after=2023-05-21T20:18:51.044925+00:00
+[2023-05-21T22:18:51.098+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.152 seconds
+[2023-05-21T22:19:36.562+0200] {processor.py:156} INFO - Started process (PID=6200) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:19:36.568+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:19:36.570+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:19:36.569+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:19:36.583+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:19:36.619+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:19:36.618+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:19:36.656+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:19:36.656+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:19:36.655045+00:00, run_after=2023-05-21T20:19:36.655045+00:00
+[2023-05-21T22:19:36.703+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2023-05-21T22:20:16.465+0200] {processor.py:156} INFO - Started process (PID=6234) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:20:16.477+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:20:16.479+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:16.478+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:20:16.503+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:20:16.619+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:16.618+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:20:16.746+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:16.746+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:20:16.745791+00:00, run_after=2023-05-21T20:20:16.745791+00:00
+[2023-05-21T22:20:16.899+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.441 seconds
+[2023-05-21T22:20:59.615+0200] {processor.py:156} INFO - Started process (PID=6268) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:20:59.628+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:20:59.629+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:59.629+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:20:59.663+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:20:59.789+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:59.778+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:20:59.917+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:59.906+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:20:59.905976+00:00, run_after=2023-05-21T20:20:59.905976+00:00
+[2023-05-21T22:21:00.548+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.947 seconds
+[2023-05-21T22:21:41.496+0200] {processor.py:156} INFO - Started process (PID=6303) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:21:41.502+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:21:41.504+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:21:41.504+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:21:41.518+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:21:41.558+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:21:41.557+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:21:41.598+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:21:41.598+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:21:41.597773+00:00, run_after=2023-05-21T20:21:41.597773+00:00
+[2023-05-21T22:21:41.649+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.160 seconds
+[2023-05-21T22:22:21.903+0200] {processor.py:156} INFO - Started process (PID=6338) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:22:21.908+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:22:21.910+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:21.909+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:22:21.924+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:22:21.965+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:21.964+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:22:22.025+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:22.024+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:22:22.024132+00:00, run_after=2023-05-21T20:22:22.024132+00:00
+[2023-05-21T22:22:22.187+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.291 seconds
+[2023-05-21T22:23:01.309+0200] {processor.py:156} INFO - Started process (PID=6372) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:23:01.315+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:23:01.316+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:01.316+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:23:01.329+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:23:01.371+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:01.370+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:23:01.409+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:01.408+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:23:01.408101+00:00, run_after=2023-05-21T20:23:01.408101+00:00
+[2023-05-21T22:23:01.462+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.159 seconds
+[2023-05-21T22:23:43.750+0200] {processor.py:156} INFO - Started process (PID=6407) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:23:43.755+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:23:43.756+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:43.756+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:23:43.769+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:23:43.804+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:43.804+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:23:43.841+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:43.840+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:23:43.840227+00:00, run_after=2023-05-21T20:23:43.840227+00:00
+[2023-05-21T22:23:43.892+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.148 seconds
+[2023-05-21T22:24:23.097+0200] {processor.py:156} INFO - Started process (PID=6442) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:24:23.102+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:24:23.104+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:24:23.104+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:24:23.119+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:24:23.157+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:24:23.157+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:24:23.194+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:24:23.194+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:24:23.193611+00:00, run_after=2023-05-21T20:24:23.193611+00:00
+[2023-05-21T22:24:23.241+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.151 seconds
+[2023-05-21T22:25:03.673+0200] {processor.py:156} INFO - Started process (PID=6475) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:25:03.679+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:25:03.680+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:03.680+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:25:03.693+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:25:03.728+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:03.728+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:25:03.765+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:03.765+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:25:03.764962+00:00, run_after=2023-05-21T20:25:03.764962+00:00
+[2023-05-21T22:25:03.811+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2023-05-21T22:25:42.398+0200] {processor.py:156} INFO - Started process (PID=6509) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:25:42.403+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:25:42.404+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:42.404+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:25:42.415+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:25:42.452+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:42.452+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:25:42.488+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:42.488+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:25:42.487576+00:00, run_after=2023-05-21T20:25:42.487576+00:00
+[2023-05-21T22:25:42.553+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.162 seconds
+[2023-05-21T22:26:20.028+0200] {processor.py:156} INFO - Started process (PID=6543) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:26:20.034+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:26:20.035+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:20.035+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:26:20.048+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:26:20.083+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:20.082+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:26:20.119+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:20.119+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:26:20.119041+00:00, run_after=2023-05-21T20:26:20.119041+00:00
+[2023-05-21T22:26:20.172+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T22:26:59.841+0200] {processor.py:156} INFO - Started process (PID=6579) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:26:59.849+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:26:59.850+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:59.850+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:26:59.864+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:26:59.898+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:59.898+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:26:59.936+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:59.936+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:26:59.935416+00:00, run_after=2023-05-21T20:26:59.935416+00:00
+[2023-05-21T22:26:59.993+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2023-05-21T22:27:37.752+0200] {processor.py:156} INFO - Started process (PID=6613) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:27:37.758+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:27:37.759+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:27:37.759+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:27:37.772+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:27:37.807+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:27:37.807+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:27:37.844+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:27:37.843+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:27:37.843042+00:00, run_after=2023-05-21T20:27:37.843042+00:00
+[2023-05-21T22:27:37.893+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2023-05-21T22:28:18.269+0200] {processor.py:156} INFO - Started process (PID=6649) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:28:18.273+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:28:18.275+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:18.274+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:28:18.291+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:28:18.336+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:18.336+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:28:18.386+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:18.386+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:28:18.385732+00:00, run_after=2023-05-21T20:28:18.385732+00:00
+[2023-05-21T22:28:18.465+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.204 seconds
+[2023-05-21T22:28:59.756+0200] {processor.py:156} INFO - Started process (PID=6686) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:28:59.761+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:28:59.762+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:59.762+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:28:59.774+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:28:59.810+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:59.810+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:28:59.848+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:59.848+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:28:59.847804+00:00, run_after=2023-05-21T20:28:59.847804+00:00
+[2023-05-21T22:28:59.893+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.143 seconds
+[2023-05-21T22:29:37.182+0200] {processor.py:156} INFO - Started process (PID=6720) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:29:37.188+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:29:37.190+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:29:37.189+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:29:37.203+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:29:37.238+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:29:37.238+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:29:37.275+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:29:37.274+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:29:37.273822+00:00, run_after=2023-05-21T20:29:37.273822+00:00
+[2023-05-21T22:29:37.328+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.151 seconds
+[2023-05-21T22:30:16.918+0200] {processor.py:156} INFO - Started process (PID=6755) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:30:16.924+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:30:16.926+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:16.925+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:30:16.938+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:30:16.974+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:16.973+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:30:17.012+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:17.012+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:30:17.011625+00:00, run_after=2023-05-21T20:30:17.011625+00:00
+[2023-05-21T22:30:17.062+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T22:30:54.408+0200] {processor.py:156} INFO - Started process (PID=6789) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:30:54.414+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:30:54.415+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:54.415+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:30:54.428+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:30:54.463+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:54.462+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:30:54.500+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:54.499+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:30:54.499097+00:00, run_after=2023-05-21T20:30:54.499097+00:00
+[2023-05-21T22:30:54.548+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2023-05-21T22:31:34.334+0200] {processor.py:156} INFO - Started process (PID=6823) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:31:34.340+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:31:34.341+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:31:34.341+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:31:34.353+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:31:34.389+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:31:34.389+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:31:34.425+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:31:34.425+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:31:34.424581+00:00, run_after=2023-05-21T20:31:34.424581+00:00
+[2023-05-21T22:31:34.473+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.145 seconds
+[2023-05-21T22:32:25.376+0200] {processor.py:156} INFO - Started process (PID=6865) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:32:25.381+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:32:25.382+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:32:25.382+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:32:25.395+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:32:25.430+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:32:25.429+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:32:25.467+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:32:25.466+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:32:25.466279+00:00, run_after=2023-05-21T20:32:25.466279+00:00
+[2023-05-21T22:32:25.520+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-21T22:33:03.948+0200] {processor.py:156} INFO - Started process (PID=6900) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:33:03.954+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:33:03.955+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:03.955+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:33:03.967+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:33:04.002+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:04.002+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:33:04.061+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:04.060+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:33:04.060305+00:00, run_after=2023-05-21T20:33:04.060305+00:00
+[2023-05-21T22:33:04.150+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.209 seconds
+[2023-05-21T22:33:44.494+0200] {processor.py:156} INFO - Started process (PID=6934) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:33:44.498+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:33:44.499+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:44.499+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:33:44.512+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:33:44.546+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:44.546+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:33:44.583+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:44.583+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:33:44.582481+00:00, run_after=2023-05-21T20:33:44.582481+00:00
+[2023-05-21T22:33:44.632+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2023-05-21T22:34:21.187+0200] {processor.py:156} INFO - Started process (PID=6968) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:34:21.192+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:34:21.194+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:34:21.193+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:34:21.207+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:34:21.247+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:34:21.247+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:34:21.285+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:34:21.285+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:34:21.284481+00:00, run_after=2023-05-21T20:34:21.284481+00:00
+[2023-05-21T22:34:21.326+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.146 seconds
+[2023-05-21T22:35:05.918+0200] {processor.py:156} INFO - Started process (PID=7020) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:35:05.983+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:35:05.984+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:05.984+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:35:06.000+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:35:06.077+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:06.076+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:35:06.178+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:06.173+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:35:06.172368+00:00, run_after=2023-05-21T20:35:06.172368+00:00
+[2023-05-21T22:35:06.304+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.404 seconds
+[2023-05-21T22:35:47.566+0200] {processor.py:156} INFO - Started process (PID=7061) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:35:47.572+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:35:47.581+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:47.581+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:35:47.614+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:35:47.727+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:47.726+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:35:47.869+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:47.869+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:35:47.857858+00:00, run_after=2023-05-21T20:35:47.857858+00:00
+[2023-05-21T22:35:48.186+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.650 seconds
+[2023-05-21T22:36:37.303+0200] {processor.py:156} INFO - Started process (PID=7267) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:36:37.325+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:36:37.326+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:36:37.326+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:36:37.349+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:36:37.475+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:36:37.474+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:36:37.567+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:36:37.567+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:36:37.566545+00:00, run_after=2023-05-21T20:36:37.566545+00:00
+[2023-05-21T22:36:37.667+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.381 seconds
+[2023-05-21T22:37:52.367+0200] {processor.py:156} INFO - Started process (PID=7310) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:37:52.381+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:37:52.383+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:37:52.382+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:37:52.428+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:37:52.570+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:37:52.569+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:37:52.715+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:37:52.714+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:37:52.713984+00:00, run_after=2023-05-21T20:37:52.713984+00:00
+[2023-05-21T22:37:53.428+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 1.080 seconds
+[2023-05-21T22:38:42.649+0200] {processor.py:156} INFO - Started process (PID=7345) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:38:42.653+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:38:42.655+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:38:42.654+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:38:42.668+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:38:42.704+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:38:42.704+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:38:42.740+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:38:42.740+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:38:42.739644+00:00, run_after=2023-05-21T20:38:42.739644+00:00
+[2023-05-21T22:38:42.798+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.156 seconds
+[2023-05-21T22:39:25.583+0200] {processor.py:156} INFO - Started process (PID=7381) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:39:25.587+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:39:25.588+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:39:25.588+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:39:25.600+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:39:25.636+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:39:25.635+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:39:25.672+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:39:25.671+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:39:25.671387+00:00, run_after=2023-05-21T20:39:25.671387+00:00
+[2023-05-21T22:39:25.720+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2023-05-21T22:40:05.291+0200] {processor.py:156} INFO - Started process (PID=7415) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:40:05.297+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:40:05.299+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:05.299+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:40:05.317+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:40:05.365+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:05.363+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:40:05.412+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:05.411+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:40:05.407877+00:00, run_after=2023-05-21T20:40:05.407877+00:00
+[2023-05-21T22:40:05.482+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2023-05-21T22:40:48.294+0200] {processor.py:156} INFO - Started process (PID=7449) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:40:48.299+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:40:48.300+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:48.300+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:40:48.319+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:40:48.380+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:48.380+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:40:48.454+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:48.453+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:40:48.452486+00:00, run_after=2023-05-21T20:40:48.452486+00:00
+[2023-05-21T22:40:48.553+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.273 seconds
+[2023-05-21T22:41:29.957+0200] {processor.py:156} INFO - Started process (PID=7483) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:41:29.963+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:41:29.965+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:41:29.965+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:41:29.993+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:41:30.039+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:41:30.038+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:41:30.089+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:41:30.088+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:41:30.088282+00:00, run_after=2023-05-21T20:41:30.088282+00:00
+[2023-05-21T22:41:30.151+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.209 seconds
+[2023-05-21T22:42:09.355+0200] {processor.py:156} INFO - Started process (PID=7518) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:42:09.362+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-21T22:42:09.364+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:42:09.363+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:42:09.377+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-21T22:42:09.436+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:42:09.435+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:42:09.550+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:42:09.550+0200] {dag.py:3324} INFO - Setting next_dagrun for example_skip_dag to 2023-05-20T20:42:09.548224+00:00, run_after=2023-05-21T20:42:09.548224+00:00
+[2023-05-21T22:42:09.929+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.584 seconds

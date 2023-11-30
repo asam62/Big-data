@@ -1,0 +1,756 @@
+[2023-05-21T21:18:14.420+0200] {processor.py:156} INFO - Started process (PID=2066) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:18:14.461+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:18:14.463+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:18:14.463+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:18:16.760+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:18:20.076+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:18:20.076+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:18:20.770+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:18:20.769+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:18:21.314+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 6.915 seconds
+[2023-05-21T21:20:19.595+0200] {processor.py:156} INFO - Started process (PID=2440) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:20:19.608+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:20:19.610+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:20:19.609+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:20:19.878+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:20:20.208+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:20:20.207+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:20:20.282+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:20:20.282+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:20:20.356+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.778 seconds
+[2023-05-21T21:21:17.403+0200] {processor.py:156} INFO - Started process (PID=2479) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:21:17.412+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:21:17.413+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:21:17.413+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:21:17.504+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:21:17.641+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:21:17.640+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:21:17.709+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:21:17.708+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:21:17.769+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.374 seconds
+[2023-05-21T21:23:01.689+0200] {processor.py:156} INFO - Started process (PID=2526) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:23:01.731+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:23:01.733+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:23:01.733+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:23:02.136+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:23:03.175+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:23:03.173+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:23:03.340+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:23:03.340+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:23:03.711+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 2.030 seconds
+[2023-05-21T21:24:40.638+0200] {processor.py:156} INFO - Started process (PID=2875) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:24:40.725+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:24:40.728+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:24:40.727+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:24:42.446+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:24:45.815+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:24:45.814+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:24:47.125+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:24:47.125+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:24:49.794+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 9.173 seconds
+[2023-05-21T21:27:44.511+0200] {processor.py:156} INFO - Started process (PID=2961) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:27:44.516+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:27:44.519+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:27:44.518+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:27:44.702+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:27:45.180+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:27:45.173+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:27:45.285+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:27:45.284+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:27:45.430+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.926 seconds
+[2023-05-21T21:28:55.992+0200] {processor.py:156} INFO - Started process (PID=2997) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:28:55.996+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:28:56.000+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:28:55.999+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:28:56.097+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:28:56.300+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:28:56.300+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:28:56.358+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:28:56.358+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:28:57.100+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 1.115 seconds
+[2023-05-21T21:32:42.440+0200] {processor.py:156} INFO - Started process (PID=3794) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:32:42.446+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:32:42.448+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:32:42.447+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:32:42.688+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:32:44.016+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:32:44.015+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:32:44.169+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:32:44.169+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:32:44.545+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 2.123 seconds
+[2023-05-21T21:33:44.655+0200] {processor.py:156} INFO - Started process (PID=3836) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:33:44.659+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:33:44.670+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:33:44.669+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:33:44.719+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:33:44.819+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:33:44.819+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:33:44.850+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:33:44.849+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:33:44.900+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.259 seconds
+[2023-05-21T21:34:27.097+0200] {processor.py:156} INFO - Started process (PID=3871) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:34:27.108+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:34:27.109+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:34:27.109+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:34:27.158+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:34:27.254+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:34:27.254+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:34:27.285+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:34:27.284+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:34:27.349+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.258 seconds
+[2023-05-21T21:35:05.084+0200] {processor.py:156} INFO - Started process (PID=3905) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:35:05.090+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:35:05.091+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:05.091+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:35:05.149+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:35:05.242+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:05.242+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:35:05.289+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:05.288+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:35:05.343+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.267 seconds
+[2023-05-21T21:35:43.833+0200] {processor.py:156} INFO - Started process (PID=3939) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:35:43.841+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:35:43.842+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:43.842+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:35:43.892+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:35:43.983+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:43.983+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:35:44.014+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:35:44.013+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:35:44.073+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.246 seconds
+[2023-05-21T21:36:30.161+0200] {processor.py:156} INFO - Started process (PID=3979) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:36:30.167+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:36:30.169+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:36:30.168+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:36:30.218+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:36:30.336+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:36:30.336+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:36:30.369+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:36:30.369+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:36:30.430+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.277 seconds
+[2023-05-21T21:37:12.186+0200] {processor.py:156} INFO - Started process (PID=4017) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:37:12.189+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:37:12.191+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:12.190+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:37:12.238+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:37:12.336+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:12.336+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:37:12.372+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:12.371+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:37:12.442+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.263 seconds
+[2023-05-21T21:37:53.905+0200] {processor.py:156} INFO - Started process (PID=4056) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:37:53.912+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:37:53.914+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:53.913+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:37:53.963+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:37:54.054+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:54.053+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:37:54.087+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:37:54.086+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:37:54.143+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.245 seconds
+[2023-05-21T21:38:33.329+0200] {processor.py:156} INFO - Started process (PID=4089) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:38:33.333+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:38:33.335+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:38:33.335+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:38:33.407+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:38:33.536+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:38:33.535+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:38:33.595+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:38:33.594+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:38:33.709+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.388 seconds
+[2023-05-21T21:39:30.255+0200] {processor.py:156} INFO - Started process (PID=4136) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:39:30.259+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:39:30.260+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:39:30.260+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:39:30.311+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:39:30.403+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:39:30.402+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:39:30.435+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:39:30.434+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:39:30.478+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.232 seconds
+[2023-05-21T21:40:14.351+0200] {processor.py:156} INFO - Started process (PID=4172) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:40:14.358+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:40:14.359+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:14.359+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:40:14.453+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:40:14.653+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:14.653+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:40:14.708+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:14.705+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:40:14.800+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.463 seconds
+[2023-05-21T21:40:55.060+0200] {processor.py:156} INFO - Started process (PID=4206) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:40:55.063+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:40:55.064+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:55.064+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:40:55.110+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:40:55.209+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:55.209+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:40:55.241+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:40:55.240+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:40:55.286+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.235 seconds
+[2023-05-21T21:41:37.323+0200] {processor.py:156} INFO - Started process (PID=4241) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:41:37.328+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:41:37.330+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:41:37.329+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:41:37.479+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:41:37.749+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:41:37.748+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:41:37.821+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:41:37.820+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:41:37.887+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.583 seconds
+[2023-05-21T21:42:16.628+0200] {processor.py:156} INFO - Started process (PID=4276) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:42:16.634+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:42:16.635+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:16.635+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:42:16.682+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:42:16.772+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:16.771+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:42:16.803+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:16.803+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:42:16.856+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.234 seconds
+[2023-05-21T21:42:56.313+0200] {processor.py:156} INFO - Started process (PID=4310) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:42:56.320+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:42:56.322+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:56.322+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:42:56.431+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:42:56.625+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:56.624+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:42:56.735+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:42:56.735+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:42:56.804+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.517 seconds
+[2023-05-21T21:43:36.824+0200] {processor.py:156} INFO - Started process (PID=4344) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:43:36.830+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:43:36.834+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:36.833+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:43:36.881+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:43:36.973+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:36.973+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:43:37.019+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:43:37.019+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:43:37.069+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.252 seconds
+[2023-05-21T21:44:17.546+0200] {processor.py:156} INFO - Started process (PID=4379) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:44:17.552+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:44:17.553+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:17.553+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:44:17.602+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:44:17.711+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:17.711+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:44:17.744+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:17.744+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:44:17.794+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.254 seconds
+[2023-05-21T21:44:58.141+0200] {processor.py:156} INFO - Started process (PID=4413) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:44:58.147+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:44:58.148+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:58.148+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:44:58.197+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:44:58.292+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:58.291+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:44:58.322+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:44:58.321+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:44:58.369+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.235 seconds
+[2023-05-21T21:45:35.714+0200] {processor.py:156} INFO - Started process (PID=4447) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:45:35.720+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:45:35.722+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:35.721+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:45:35.770+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:45:35.862+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:35.862+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:45:35.893+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:45:35.892+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:45:35.938+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.230 seconds
+[2023-05-21T21:46:17.608+0200] {processor.py:156} INFO - Started process (PID=4481) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:46:17.614+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:46:17.615+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:17.615+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:46:17.664+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:46:17.756+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:17.756+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:46:17.787+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:17.786+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:46:17.850+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.249 seconds
+[2023-05-21T21:46:58.653+0200] {processor.py:156} INFO - Started process (PID=4516) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:46:58.657+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:46:58.658+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:58.658+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:46:58.707+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:46:58.796+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:58.796+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:46:58.830+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:46:58.829+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:46:58.884+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.239 seconds
+[2023-05-21T21:47:37.502+0200] {processor.py:156} INFO - Started process (PID=4550) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:47:37.508+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:47:37.509+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:37.509+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:47:37.559+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:47:37.652+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:37.652+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:47:37.683+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:47:37.683+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:47:37.729+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2023-05-21T21:48:14.701+0200] {processor.py:156} INFO - Started process (PID=4584) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:48:14.707+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:48:14.708+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:14.708+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:48:14.755+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:48:14.847+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:14.846+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:48:14.876+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:14.876+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:48:14.924+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.230 seconds
+[2023-05-21T21:48:52.804+0200] {processor.py:156} INFO - Started process (PID=4617) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:48:52.810+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:48:52.811+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:52.811+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:48:52.858+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:48:52.947+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:52.946+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:48:52.981+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:48:52.980+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:48:53.028+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.230 seconds
+[2023-05-21T21:49:30.232+0200] {processor.py:156} INFO - Started process (PID=4652) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:49:30.242+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:49:30.243+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:49:30.243+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:49:30.301+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:49:30.403+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:49:30.402+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:49:30.436+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:49:30.435+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:49:30.503+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.278 seconds
+[2023-05-21T21:50:08.408+0200] {processor.py:156} INFO - Started process (PID=4685) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:50:08.414+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:50:08.415+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:08.415+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:50:08.468+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:50:08.570+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:08.569+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:50:08.603+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:08.602+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:50:08.654+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.253 seconds
+[2023-05-21T21:50:48.365+0200] {processor.py:156} INFO - Started process (PID=4719) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:50:48.370+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:50:48.372+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:48.371+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:50:48.495+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:50:48.731+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:48.730+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:50:48.822+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:50:48.821+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:50:48.934+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.595 seconds
+[2023-05-21T21:51:34.752+0200] {processor.py:156} INFO - Started process (PID=4759) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:51:34.760+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:51:34.761+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:51:34.761+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:51:34.936+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:51:35.441+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:51:35.440+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:51:35.646+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:51:35.644+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:51:35.795+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 1.105 seconds
+[2023-05-21T21:52:21.993+0200] {processor.py:156} INFO - Started process (PID=4797) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:52:21.999+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:52:22.000+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:52:22.000+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:52:22.055+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:52:22.206+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:52:22.205+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:52:22.249+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:52:22.249+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:52:22.322+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.339 seconds
+[2023-05-21T21:53:04.474+0200] {processor.py:156} INFO - Started process (PID=4835) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:53:04.481+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:53:04.484+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:04.484+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:53:04.555+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:53:04.678+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:04.677+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:53:04.712+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:04.711+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:53:04.760+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.294 seconds
+[2023-05-21T21:53:45.623+0200] {processor.py:156} INFO - Started process (PID=4869) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:53:45.629+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:53:45.631+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:45.631+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:53:45.680+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:53:45.770+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:45.770+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:53:45.803+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:53:45.802+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:53:45.857+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.240 seconds
+[2023-05-21T21:54:26.622+0200] {processor.py:156} INFO - Started process (PID=4904) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:54:26.637+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:54:26.639+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:54:26.639+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:54:26.852+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:54:27.033+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:54:27.033+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:54:27.102+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:54:27.102+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:54:27.179+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.573 seconds
+[2023-05-21T21:55:03.833+0200] {processor.py:156} INFO - Started process (PID=4937) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:55:03.839+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:55:03.840+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:03.840+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:55:03.893+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:55:03.988+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:03.987+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:55:04.023+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:04.022+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:55:04.077+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.250 seconds
+[2023-05-21T21:55:43.531+0200] {processor.py:156} INFO - Started process (PID=4971) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:55:43.535+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:55:43.536+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:43.536+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:55:43.584+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:55:43.678+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:43.678+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:55:43.708+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:55:43.707+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:55:43.758+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2023-05-21T21:56:21.225+0200] {processor.py:156} INFO - Started process (PID=5005) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:56:21.230+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:56:21.232+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:56:21.231+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:56:21.286+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:56:21.406+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:56:21.405+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:56:21.439+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:56:21.438+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:56:21.491+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.272 seconds
+[2023-05-21T21:57:01.752+0200] {processor.py:156} INFO - Started process (PID=5039) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:57:01.755+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:57:01.756+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:01.756+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:57:01.822+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:57:01.968+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:01.967+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:57:02.003+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:02.002+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:57:02.052+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.307 seconds
+[2023-05-21T21:57:49.038+0200] {processor.py:156} INFO - Started process (PID=5072) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:57:49.044+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:57:49.046+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:49.046+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:57:49.141+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:57:49.325+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:49.325+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:57:49.385+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:57:49.385+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:57:49.478+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.448 seconds
+[2023-05-21T21:58:36.537+0200] {processor.py:156} INFO - Started process (PID=5107) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:58:36.545+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:58:36.547+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:58:36.547+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:58:36.600+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:58:36.700+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:58:36.699+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:58:36.735+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:58:36.735+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:58:36.888+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.358 seconds
+[2023-05-21T21:59:17.712+0200] {processor.py:156} INFO - Started process (PID=5141) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:59:17.717+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:59:17.719+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:17.719+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:59:17.767+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:59:17.857+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:17.857+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:59:17.888+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:17.887+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:59:17.938+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2023-05-21T21:59:54.399+0200] {processor.py:156} INFO - Started process (PID=5175) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:59:54.404+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T21:59:54.406+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:54.406+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:59:54.451+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T21:59:54.544+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:54.543+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T21:59:54.577+0200] {logging_mixin.py:117} INFO - [2023-05-21T21:59:54.577+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T21:59:54.621+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.231 seconds
+[2023-05-21T22:00:34.602+0200] {processor.py:156} INFO - Started process (PID=5209) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:00:34.605+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:00:34.607+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:00:34.607+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:00:34.656+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:00:34.751+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:00:34.751+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:00:34.785+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:00:34.785+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:00:34.830+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.234 seconds
+[2023-05-21T22:01:12.797+0200] {processor.py:156} INFO - Started process (PID=5243) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:01:12.802+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:01:12.804+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:12.804+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:01:12.852+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:01:12.948+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:12.947+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:01:12.978+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:12.977+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:01:13.026+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.235 seconds
+[2023-05-21T22:01:53.718+0200] {processor.py:156} INFO - Started process (PID=5277) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:01:53.728+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:01:53.730+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:53.729+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:01:53.782+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:01:53.878+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:53.877+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:01:53.910+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:01:53.910+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:01:53.994+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.275 seconds
+[2023-05-21T22:02:33.786+0200] {processor.py:156} INFO - Started process (PID=5310) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:02:33.789+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:02:33.790+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:02:33.790+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:02:33.860+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:02:33.979+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:02:33.978+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:02:34.051+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:02:34.051+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:02:34.130+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.351 seconds
+[2023-05-21T22:03:18.181+0200] {processor.py:156} INFO - Started process (PID=5344) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:03:18.185+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:03:18.186+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:18.186+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:03:18.248+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:03:18.386+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:18.385+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:03:18.424+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:18.424+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:03:18.482+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.310 seconds
+[2023-05-21T22:03:57.963+0200] {processor.py:156} INFO - Started process (PID=5378) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:03:57.967+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:03:57.968+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:57.968+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:03:58.018+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:03:58.110+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:58.109+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:03:58.151+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:03:58.150+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:03:58.199+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.243 seconds
+[2023-05-21T22:04:37.030+0200] {processor.py:156} INFO - Started process (PID=5412) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:04:37.049+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:04:37.051+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:37.051+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:04:37.100+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:04:37.194+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:37.193+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:04:37.226+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:04:37.226+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:04:37.286+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.262 seconds
+[2023-05-21T22:05:13.996+0200] {processor.py:156} INFO - Started process (PID=5446) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:05:14.002+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:05:14.003+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:14.003+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:05:14.050+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:05:14.146+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:14.146+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:05:14.194+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:14.194+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:05:14.241+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.252 seconds
+[2023-05-21T22:05:54.219+0200] {processor.py:156} INFO - Started process (PID=5480) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:05:54.226+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:05:54.228+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:54.228+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:05:54.281+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:05:54.389+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:54.388+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:05:54.428+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:05:54.428+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:05:54.487+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.275 seconds
+[2023-05-21T22:06:32.613+0200] {processor.py:156} INFO - Started process (PID=5514) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:06:32.618+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:06:32.620+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:06:32.619+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:06:32.667+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:06:32.763+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:06:32.762+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:06:32.794+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:06:32.793+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:06:32.844+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.238 seconds
+[2023-05-21T22:07:13.877+0200] {processor.py:156} INFO - Started process (PID=5548) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:07:13.883+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:07:13.884+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:13.884+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:07:13.932+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:07:14.034+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:14.034+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:07:14.066+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:14.066+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:07:14.112+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.242 seconds
+[2023-05-21T22:07:52.316+0200] {processor.py:156} INFO - Started process (PID=5582) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:07:52.321+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:07:52.323+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:52.322+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:07:52.369+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:07:52.461+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:52.461+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:07:52.491+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:07:52.491+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:07:52.541+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2023-05-21T22:08:32.454+0200] {processor.py:156} INFO - Started process (PID=5644) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:08:32.460+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:08:32.461+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:08:32.461+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:08:32.521+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:08:32.613+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:08:32.613+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:08:32.647+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:08:32.647+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:08:32.698+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.250 seconds
+[2023-05-21T22:09:09.369+0200] {processor.py:156} INFO - Started process (PID=5678) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:09:09.374+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:09:09.376+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:09.376+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:09:09.422+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:09:09.520+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:09.520+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:09:09.552+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:09.552+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:09:09.601+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.240 seconds
+[2023-05-21T22:09:50.089+0200] {processor.py:156} INFO - Started process (PID=5712) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:09:50.095+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:09:50.096+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:50.096+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:09:50.144+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:09:50.239+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:50.238+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:09:50.270+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:09:50.269+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:09:50.322+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.239 seconds
+[2023-05-21T22:10:32.075+0200] {processor.py:156} INFO - Started process (PID=5746) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:10:32.081+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:10:32.082+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:10:32.082+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:10:32.132+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:10:32.230+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:10:32.229+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:10:32.266+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:10:32.266+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:10:32.322+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.253 seconds
+[2023-05-21T22:11:18.936+0200] {processor.py:156} INFO - Started process (PID=5780) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:11:18.943+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:11:18.946+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:11:18.945+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:11:19.152+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:11:19.626+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:11:19.625+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:11:19.731+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:11:19.730+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:11:19.865+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.944 seconds
+[2023-05-21T22:12:06.305+0200] {processor.py:156} INFO - Started process (PID=5814) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:12:06.310+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:12:06.312+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:06.312+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:12:06.359+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:12:06.452+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:06.451+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:12:06.483+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:06.483+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:12:06.533+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.234 seconds
+[2023-05-21T22:12:46.971+0200] {processor.py:156} INFO - Started process (PID=5848) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:12:46.977+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:12:46.979+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:46.979+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:12:47.027+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:12:47.125+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:47.124+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:12:47.156+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:12:47.155+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:12:47.207+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.242 seconds
+[2023-05-21T22:13:26.516+0200] {processor.py:156} INFO - Started process (PID=5883) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:13:26.525+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:13:26.526+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:13:26.526+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:13:26.583+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:13:26.677+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:13:26.677+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:13:26.708+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:13:26.707+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:13:26.761+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.251 seconds
+[2023-05-21T22:14:07.769+0200] {processor.py:156} INFO - Started process (PID=5919) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:14:07.775+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:14:07.777+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:07.776+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:14:07.825+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:14:07.920+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:07.919+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:14:07.950+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:07.949+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:14:08.004+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.242 seconds
+[2023-05-21T22:14:47.154+0200] {processor.py:156} INFO - Started process (PID=5953) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:14:47.160+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:14:47.161+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:47.161+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:14:47.210+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:14:47.300+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:47.299+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:14:47.331+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:14:47.331+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:14:47.379+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.232 seconds
+[2023-05-21T22:15:28.354+0200] {processor.py:156} INFO - Started process (PID=5987) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:15:28.360+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:15:28.361+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:15:28.361+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:15:28.417+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:15:28.520+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:15:28.520+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:15:28.555+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:15:28.555+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:15:28.613+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.267 seconds
+[2023-05-21T22:16:10.199+0200] {processor.py:156} INFO - Started process (PID=6022) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:16:10.204+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:16:10.205+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:10.205+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:16:10.256+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:16:10.365+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:10.364+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:16:10.403+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:10.403+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:16:10.463+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.271 seconds
+[2023-05-21T22:16:52.388+0200] {processor.py:156} INFO - Started process (PID=6056) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:16:52.396+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:16:52.397+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:52.397+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:16:52.518+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:16:52.705+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:52.705+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:16:52.750+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:16:52.750+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:16:52.808+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.432 seconds
+[2023-05-21T22:17:31.089+0200] {processor.py:156} INFO - Started process (PID=6094) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:17:31.094+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:17:31.096+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:17:31.095+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:17:31.143+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:17:31.236+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:17:31.235+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:17:31.266+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:17:31.266+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:17:31.317+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.234 seconds
+[2023-05-21T22:18:10.903+0200] {processor.py:156} INFO - Started process (PID=6129) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:18:10.909+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:18:10.911+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:10.910+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:18:10.957+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:18:11.052+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:11.052+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:18:11.085+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:11.085+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:18:11.140+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.244 seconds
+[2023-05-21T22:18:46.989+0200] {processor.py:156} INFO - Started process (PID=6163) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:18:46.995+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:18:46.996+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:46.996+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:18:47.044+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:18:47.136+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:47.136+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:18:47.167+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:18:47.167+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:18:47.219+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.237 seconds
+[2023-05-21T22:19:32.957+0200] {processor.py:156} INFO - Started process (PID=6197) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:19:32.963+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:19:32.964+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:19:32.964+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:19:33.011+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:19:33.103+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:19:33.103+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:19:33.147+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:19:33.147+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:19:33.193+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.242 seconds
+[2023-05-21T22:20:12.484+0200] {processor.py:156} INFO - Started process (PID=6231) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:20:12.488+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:20:12.498+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:12.496+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:20:12.582+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:20:12.661+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:12.660+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:20:12.715+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:12.714+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:20:12.810+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.344 seconds
+[2023-05-21T22:20:55.591+0200] {processor.py:156} INFO - Started process (PID=6265) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:20:55.598+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:20:55.600+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:55.600+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:20:55.647+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:20:55.746+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:55.746+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:20:55.778+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:20:55.778+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:20:55.836+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.251 seconds
+[2023-05-21T22:21:36.924+0200] {processor.py:156} INFO - Started process (PID=6300) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:21:36.928+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:21:36.930+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:21:36.929+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:21:36.986+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:21:37.167+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:21:37.167+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:21:37.313+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:21:37.312+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:21:37.468+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.554 seconds
+[2023-05-21T22:22:17.292+0200] {processor.py:156} INFO - Started process (PID=6335) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:22:17.298+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:22:17.299+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:17.299+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:22:17.346+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:22:17.436+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:17.436+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:22:17.470+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:17.470+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:22:17.521+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.235 seconds
+[2023-05-21T22:22:57.572+0200] {processor.py:156} INFO - Started process (PID=6369) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:22:57.582+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:22:57.584+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:57.583+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:22:57.654+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:22:57.769+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:57.769+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:22:57.800+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:22:57.800+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:22:57.972+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.407 seconds
+[2023-05-21T22:23:39.857+0200] {processor.py:156} INFO - Started process (PID=6404) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:23:39.863+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:23:39.864+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:39.864+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:23:39.914+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:23:40.053+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:40.052+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:23:40.091+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:23:40.091+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:23:40.156+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.306 seconds
+[2023-05-21T22:24:19.872+0200] {processor.py:156} INFO - Started process (PID=6439) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:24:19.877+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:24:19.878+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:24:19.878+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:24:19.926+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:24:20.023+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:24:20.023+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:24:20.054+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:24:20.054+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:24:20.099+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.234 seconds
+[2023-05-21T22:25:00.493+0200] {processor.py:156} INFO - Started process (PID=6472) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:25:00.499+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:25:00.500+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:00.500+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:25:00.549+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:25:00.643+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:00.642+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:25:00.673+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:00.673+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:25:00.723+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.236 seconds
+[2023-05-21T22:25:39.034+0200] {processor.py:156} INFO - Started process (PID=6506) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:25:39.040+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:25:39.041+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:39.041+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:25:39.089+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:25:39.182+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:39.181+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:25:39.212+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:25:39.212+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:25:39.265+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.238 seconds
+[2023-05-21T22:26:16.682+0200] {processor.py:156} INFO - Started process (PID=6540) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:26:16.688+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:26:16.690+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:16.689+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:26:16.739+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:26:16.829+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:16.829+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:26:16.859+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:16.859+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:26:16.907+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.231 seconds
+[2023-05-21T22:26:55.725+0200] {processor.py:156} INFO - Started process (PID=6576) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:26:55.730+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:26:55.732+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:55.731+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:26:55.779+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:26:55.872+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:55.872+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:26:55.906+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:26:55.906+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:26:55.952+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.234 seconds
+[2023-05-21T22:27:34.295+0200] {processor.py:156} INFO - Started process (PID=6610) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:27:34.301+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:27:34.302+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:27:34.302+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:27:34.350+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:27:34.443+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:27:34.443+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:27:34.477+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:27:34.476+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:27:34.528+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.239 seconds
+[2023-05-21T22:28:14.144+0200] {processor.py:156} INFO - Started process (PID=6644) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:28:14.146+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:28:14.148+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:14.148+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:28:14.204+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:28:14.318+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:14.318+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:28:14.355+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:14.354+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:28:14.416+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.280 seconds
+[2023-05-21T22:28:56.155+0200] {processor.py:156} INFO - Started process (PID=6683) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:28:56.159+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:28:56.160+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:56.160+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:28:56.207+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:28:56.300+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:56.299+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:28:56.330+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:28:56.329+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:28:56.379+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.231 seconds
+[2023-05-21T22:29:33.239+0200] {processor.py:156} INFO - Started process (PID=6717) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:29:33.245+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:29:33.247+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:29:33.246+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:29:33.294+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:29:33.386+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:29:33.385+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:29:33.416+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:29:33.415+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:29:33.464+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.231 seconds
+[2023-05-21T22:30:13.484+0200] {processor.py:156} INFO - Started process (PID=6752) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:30:13.488+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:30:13.489+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:13.489+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:30:13.536+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:30:13.629+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:13.628+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:30:13.659+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:13.659+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:30:13.709+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.232 seconds
+[2023-05-21T22:30:50.741+0200] {processor.py:156} INFO - Started process (PID=6786) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:30:50.747+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:30:50.749+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:50.748+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:30:50.797+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:30:50.889+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:50.888+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:30:50.919+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:30:50.918+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:30:50.966+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.231 seconds
+[2023-05-21T22:31:30.043+0200] {processor.py:156} INFO - Started process (PID=6820) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:31:30.051+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:31:30.053+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:31:30.052+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:31:30.180+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:31:30.350+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:31:30.350+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:31:30.390+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:31:30.390+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:31:30.444+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.430 seconds
+[2023-05-21T22:32:22.029+0200] {processor.py:156} INFO - Started process (PID=6862) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:32:22.034+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:32:22.035+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:32:22.035+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:32:22.083+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:32:22.173+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:32:22.173+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:32:22.207+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:32:22.206+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:32:22.263+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.240 seconds
+[2023-05-21T22:33:01.405+0200] {processor.py:156} INFO - Started process (PID=6897) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:33:01.408+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:33:01.409+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:01.409+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:33:01.456+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:33:01.547+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:01.546+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:33:01.580+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:01.580+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:33:01.629+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.230 seconds
+[2023-05-21T22:33:40.493+0200] {processor.py:156} INFO - Started process (PID=6931) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:33:40.499+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:33:40.501+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:40.501+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:33:40.548+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:33:40.641+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:40.640+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:33:40.671+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:33:40.671+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:33:40.722+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.235 seconds
+[2023-05-21T22:34:18.462+0200] {processor.py:156} INFO - Started process (PID=6965) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:34:18.467+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:34:18.469+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:34:18.469+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:34:18.514+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:34:18.607+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:34:18.607+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:34:18.638+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:34:18.638+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:34:18.683+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.230 seconds
+[2023-05-21T22:35:00.339+0200] {processor.py:156} INFO - Started process (PID=7016) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:35:00.354+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:35:00.356+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:00.356+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:35:00.489+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:35:00.736+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:00.736+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:35:00.864+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:00.864+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:35:01.171+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.849 seconds
+[2023-05-21T22:35:43.292+0200] {processor.py:156} INFO - Started process (PID=7056) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:35:43.297+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:35:43.299+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:43.299+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:35:43.352+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:35:43.473+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:43.472+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:35:43.517+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:35:43.516+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:35:43.580+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.296 seconds
+[2023-05-21T22:36:34.038+0200] {processor.py:156} INFO - Started process (PID=7264) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:36:34.046+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:36:34.047+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:36:34.047+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:36:34.099+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:36:34.190+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:36:34.190+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:36:34.220+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:36:34.220+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:36:34.274+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.244 seconds
+[2023-05-21T22:37:43.477+0200] {processor.py:156} INFO - Started process (PID=7307) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:37:43.488+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:37:43.490+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:37:43.489+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:37:43.806+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:37:47.298+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:37:47.297+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:37:47.437+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:37:47.426+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:37:47.630+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 4.170 seconds
+[2023-05-21T22:38:38.850+0200] {processor.py:156} INFO - Started process (PID=7342) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:38:38.857+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:38:38.858+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:38:38.858+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:38:38.906+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:38:38.996+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:38:38.996+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:38:39.027+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:38:39.027+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:38:39.087+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.244 seconds
+[2023-05-21T22:39:21.757+0200] {processor.py:156} INFO - Started process (PID=7378) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:39:21.763+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:39:21.765+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:39:21.764+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:39:21.823+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:39:21.953+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:39:21.952+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:39:21.986+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:39:21.985+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:39:22.049+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.300 seconds
+[2023-05-21T22:40:01.695+0200] {processor.py:156} INFO - Started process (PID=7412) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:40:01.701+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:40:01.710+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:01.710+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:40:01.779+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:40:01.949+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:01.943+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:40:02.018+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:02.018+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:40:02.135+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.456 seconds
+[2023-05-21T22:40:43.089+0200] {processor.py:156} INFO - Started process (PID=7446) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:40:43.096+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:40:43.099+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:43.098+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:40:43.164+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:40:43.286+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:43.286+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:40:43.324+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:40:43.324+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:40:43.401+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.318 seconds
+[2023-05-21T22:41:25.988+0200] {processor.py:156} INFO - Started process (PID=7480) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:41:25.994+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:41:25.995+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:41:25.995+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:41:26.104+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:41:26.275+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:41:26.275+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:41:26.341+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:41:26.341+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:41:26.416+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.436 seconds
+[2023-05-21T22:42:06.768+0200] {processor.py:156} INFO - Started process (PID=7515) to work on /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:42:06.774+0200] {processor.py:758} INFO - Processing file /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-05-21T22:42:06.776+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:42:06.775+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:42:06.823+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-05-21T22:42:06.922+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:42:06.921+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-05-21T22:42:06.955+0200] {logging_mixin.py:117} INFO - [2023-05-21T22:42:06.955+0200] {dag.py:3324} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-05-21T22:42:07.002+0200] {processor.py:178} INFO - Processing /home/nanah/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.240 seconds
